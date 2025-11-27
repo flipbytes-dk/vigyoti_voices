@@ -1,29 +1,25 @@
-AI Receptionist: Hello, and thank you for calling Architects. This is the AI assistant. How can I help you today?
+AI Receptionist: Hi, this is City Architect Services. I am Bella, City Architect Services AI receptionist. How can I help you today?
 
-Customer: Oh, hi! This is Robert Johnson, um, I'm looking to book an appointment, uh, you know, for a consultation.
+Customer: Hi, I'm David Thompson. Uh, I just moved into a new place, and I'm thinking about, like, expanding the kitchen area. Um, I was wondering if that's something you guys can help with, and, uh, how does the process usually work?
 
-AI Receptionist: Great, Robert! How are you doing today?
+AI Receptionist: Great question, David! Expanding a kitchen space is definitely something we can assist with. We have specialized architects who can work with you to create a design that meets your needs and fits within your space. Typically, it starts with a consultation where we assess your current layout and discuss your ideas and budget. Would you like to schedule an appointment with one of our architects to get started?
 
-Customer: I'm doing well, thanks. So, uh, I'm interested in setting up that appointment. 
+Customer: Yeah, that sounds good. Uh, do you need my information to book it?
 
-AI Receptionist: Wonderful! We offer a few consultation options, but our most popular package is a comprehensive design consultation. Would you be interested in that?
+AI Receptionist: Yes, please. Could I get your first name again?
 
-Customer: Yeah, that sounds good. What's, uh, what's involved with that package?
+Customer: Sure, it's David.
 
-AI Receptionist: It includes a detailed discussion with one of our specialized architects, a site evaluation, and, um, a preliminary design draft. It's a really thorough process to get your project started on the right foot.
+AI Receptionist: Thank you, David. And your phone number?
 
-Customer: Perfect, that sounds like exactly what I need. When's your next available appointment?
+Customer: It's 555-0123.
 
-AI Receptionist: Let me check... It looks like we have an opening on Tuesday at 2 PM. Would that work for you?
+AI Receptionist: Perfect, and could I also have your email address to send you the appointment details?
 
-Customer: Tuesday at 2 PM... Yeah, that works great for me.
+Customer: Of course! It's david.thompson@email.com.
 
-AI Receptionist: Excellent! I’ll book you in for Tuesday at 2 PM. Your confirmation number is VIG2645. Is there anything else I can assist you with?
+AI Receptionist: Thank you for the information, David. Your appointment is booked, and I have also messaged and emailed you the details. Is there anything else I can help you with today?
 
-Customer: No, that's all, I think. Thanks for your help!
+Customer: No, that's all for now. Thanks a lot!
 
-AI Receptionist: You're welcome, Robert! We're looking forward to your consultation. Have a great day!
-
-Customer: Thanks! You too, bye!
-
-AI Receptionist: Goodbye!
+AI Receptionist: You're welcome! Have a great day, David.

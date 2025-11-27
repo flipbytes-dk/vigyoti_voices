@@ -1,25 +1,25 @@
-AI Receptionist: Good afternoon, AutoCare Service Center, how can I help you today?
+AI Receptionist: Hi, this is AutoCare Service Center. I’m Matilda, AutoCare Service Center AI receptionist. How can I help you today?
 
-Customer: Hey there, this is Robert Johnson. Uh, I was hoping to get some info about your brake inspection service?
+Customer: Hi, I’m Ryan Miller. Um, I've been hearing this kind of squeaky noise when I brake and... I'm wondering if it's something serious. Do you guys handle brake issues?
 
-AI Receptionist: Hi, Robert! How are you today?
+AI Receptionist: Yes, Ryan, we certainly do handle brake services. The squeaky noise could be a sign that your brake pads are wearing thin, but it's best to have them checked to make sure it's nothing more serious. Would you like to set up an appointment to have one of our technicians take a look?
 
-Customer: I'm doing alright, thanks. Just, uh, trying to keep up with the car maintenance, you know? 
+Customer: Yeah, that sounds good. How soon can I bring it in?
 
-AI Receptionist: Absolutely, I understand. So, you're interested in a brake inspection. We actually have a complete maintenance package that includes a brake check, along with an oil change and tire rotation. It’s a great way to make sure everything’s in top shape.
+AI Receptionist: Let me check our schedule... Okay, we have an opening tomorrow afternoon, or if that doesn't work, the following morning is also available. Which one would you prefer?
 
-Customer: Oh, that sounds pretty good, actually. Uh, how soon could I get in for that?
+Customer: Uh, tomorrow afternoon works for me.
 
-AI Receptionist: Let's see... We can fit you in on Tuesday at 2 PM. Does that work for you?
+AI Receptionist: Great, I’ll book you in for tomorrow afternoon. Could I have your phone number and email to send you the appointment details?
 
-Customer: Yeah, Tuesday at 2 PM works perfectly. 
+Customer: Sure, my phone number is 555-0123, and uh, my email is ryan.miller@email.com.
 
-AI Receptionist: Great! I've got you scheduled. Your confirmation number is VIG1510. Anything else I can help you with?
+AI Receptionist: Thank you, Ryan. Your appointment is booked, and I’ve messaged and emailed you the details. Is there anything else I can help you with today?
 
-Customer: Nope, that's it. Thanks so much for your help!
+Customer: No, that’s all. Thanks for your help!
 
-AI Receptionist: You're welcome, Robert! We’ll see you on Tuesday at 2 PM. Have a great day!
+AI Receptionist: You're welcome! We’ll see you tomorrow afternoon. Have a great day!
 
-Customer: You too! Thanks again. Bye.
+Customer: You too, bye!
 
 AI Receptionist: Goodbye!

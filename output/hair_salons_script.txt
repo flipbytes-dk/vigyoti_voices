@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Luxe Hair Studio. I am Rachel, Luxe Hair Studio AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. I wanted to ask about getting a balayage done... um, I've never had it before. Is it, like, a long process?
+
+AI Receptionist: Hi Michael! Great to hear from you. A balayage is a really popular service, and it's perfect for a natural, sun-kissed look. It does take a bit longer than regular highlights, usually about two to three hours, depending on your hair length and the look you're going for. But our stylists make it a really relaxing experience.
+
+Customer: Oh, that sounds good. Do you guys have any openings this weekend?
+
+AI Receptionist: Let me check that for you... Yes! We do have some availability this Saturday afternoon and a couple of openings on Sunday morning. Would either of those work for you?
+
+Customer: Saturday afternoon sounds perfect.
+
+AI Receptionist: Excellent choice, Michael. Could I get your phone number and email to book the appointment?
+
+Customer: Sure, my number is 555-0123, and my email is michael.chen@email.com.
+
+AI Receptionist: Got it. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. We're looking forward to seeing you on Saturday!
+
+Customer: Awesome, thanks so much, Rachel. Can't wait!
+
+AI Receptionist: You're welcome, Michael. Have a great day, and see you soon at Luxe Hair Studio!
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Bye!

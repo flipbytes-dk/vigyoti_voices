@@ -1,33 +1,17 @@
-AI Receptionist: Thank you for calling Carpenters, this is your virtual receptionist. How can I assist you today?
+AI Receptionist: Hi, this is Elite Carpenter Services. I am Elli, Elite Carpenter Services' AI receptionist. How can I help you today?
 
-Customer: Hi, uh, this is Michael Chen. I was, like, looking to book an appointment for some carpentry work.
+Customer: Hi, I'm David Thompson. I'm actually calling because I'm considering some custom shelving for my home office. I'm not sure about the design yet and, uh, wanted to know if you guys offer consultations to help with that kind of project?
 
-AI Receptionist: Great to hear from you, Michael! How's your day going so far?
+AI Receptionist: Absolutely, David. We do offer consultations where one of our specialized carpenters can help guide you through the design options and see what might work best for your space. We can definitely help with custom shelving!
 
-Customer: Oh, not too bad, thanks. Just trying to get some home projects sorted out, you know? 
+Customer: Oh, that’s great to hear. Um, how soon could I set up a consultation?
 
-AI Receptionist: Absolutely, I get it. So, what kind of carpentry service are you interested in? We offer consultations, appointments, and specialized services.
+AI Receptionist: We can arrange a consultation at your earliest convenience. Could I get your first name, phone number, and email to book an appointment for you?
 
-Customer: Um, I'm actually looking to have some shelves built in my living room. I think, uh, a consultation would be a good start?
+Customer: Sure thing. It’s David, and my phone number is 555-0123. My email is david.thompson@gmail.com.
 
-AI Receptionist: That sounds perfect! Our most popular package includes a detailed consultation where we assess your space and needs. Does that sound like it would work for you?
+AI Receptionist: Thank you for that information, David. Your appointment is booked, and I have also messaged and emailed you the details. If you have any more questions, feel free to reach out.
 
-Customer: Yeah, that sounds good. Uh, when would be the earliest I could book?
+Customer: Awesome, thanks so much, Elli. Looking forward to it!
 
-AI Receptionist: Let me check the schedule for you... We have an opening on Tuesday at 2 PM. Would that work for you?
-
-Customer: Tuesday at 2? Yeah, that works for me.
-
-AI Receptionist: Perfect! I've booked you in for a consultation on Tuesday at 2 PM. Your confirmation number is VIG3246.
-
-Customer: Awesome, thanks! Uh, do I need to bring anything or prepare anything for the meeting?
-
-AI Receptionist: Just have any ideas or measurements ready, and our carpenter will take it from there. 
-
-Customer: Cool, that sounds easy enough. Thanks for your help!
-
-AI Receptionist: You're welcome, Michael. We're looking forward to helping you with your project. Have a great day!
-
-Customer: Thanks! You too. Bye.
-
-AI Receptionist: Goodbye!
+AI Receptionist: You're welcome! Have a great day, David. Goodbye!

@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Bright Smile Dental. I am Rachel, Bright Smile Dental AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. Uh, I've been thinking about coming in for a teeth cleaning... but, um, I'm a bit worried. Is it, like, painful?
+
+AI Receptionist: Oh, hi Robert! Thanks for reaching out. I totally understand your concern. So, a teeth cleaning is usually quite comfortable. Some people might feel a bit of sensitivity during the process, but our team is really good at making sure you're as comfy as possible. We can always discuss options to help ease any discomfort you might feel.
+
+Customer: Okay, that sounds good. Uh, do you have any openings soon?
+
+AI Receptionist: Absolutely, let me check our schedule for you. Could you please confirm your first name, phone number, and email so I can book the appointment?
+
+Customer: Sure, it's Robert. My phone number is, uh, 555-0123, and my email is robert.johnson@email.com.
+
+AI Receptionist: Great, Robert. Thanks for that. I’ve found an available slot for you... let's see... We have an opening this Thursday at 2 PM. Does that work for you?
+
+Customer: Yeah, Thursday at 2 PM works perfectly.
+
+AI Receptionist: Perfect! Your appointment is all set for Thursday at 2 PM. Thank you for the information. I have also messaged and emailed you the details. If you have any more questions or need to change anything, just let us know.
+
+Customer: Awesome, thank you so much, Rachel.
+
+AI Receptionist: You're welcome, Robert! We look forward to seeing you soon. Have a great day!
+
+Customer: You too, bye!

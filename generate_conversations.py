@@ -126,28 +126,39 @@ class VoiceDemoGenerator:
         industry_lower = industry.lower()
         
         # Common patterns
-        service_mappings = {
-            'repair': 'repair services',
-            'salon': 'styling services',
-            'spa': 'spa treatments',
-            'clinic': 'appointments',
-            'shop': 'services',
-            'studio': 'sessions',
-            'school': 'classes',
-            'agency': 'consultation',
-            'service': 'service',
-            'company': 'services',
-            'center': 'programs',
-        }
+        # Determine appropriate suffix based on industry type
+        # Determine appropriate suffix based on industry type
+        if any(x in industry_lower for x in ['clinic', 'doctor', 'dentist', 'chiropractor', 'medical', 'therapy']):
+            suffix = "Clinic"
+        elif any(x in industry_lower for x in ['studio', 'gym', 'yoga', 'dance', 'martial']):
+            suffix = "Studio"
+        elif any(x in industry_lower for x in ['shop', 'store', 'bakery', 'florist', 'pharmacy']):
+            suffix = "Shop"
+        elif any(x in industry_lower for x in ['restaurant', 'cafe', 'coffee', 'bar', 'pizza']):
+            suffix = ""  # Often just the name
+        elif any(x in industry_lower for x in ['school', 'academy', 'university', 'college']):
+            suffix = "Academy"
+        elif any(x in industry_lower for x in ['agency', 'firm', 'consultant']):
+            suffix = "Group"
+        else:
+            suffix = "Services"
+            
+        # Create a realistic business name
+        prefixes = ["City", "Elite", "Premier", "Advanced", "Total", "Modern", "Expert", "Quality"]
+        prefix = random.choice(prefixes)
         
-        service_type = 'an appointment'
-        for key, value in service_mappings.items():
-            if key in industry_lower:
-                service_type = value
-                break
+        business_name = f"{prefix} {industry}"
+        if suffix and suffix not in industry:
+            business_name += f" {suffix}"
+            
+        # Handle singular/plural
+        if business_name.endswith("s Services"):
+            business_name = business_name[:-10] + " Services"
+            
+        service_type = industry_lower.replace(' services', '').replace(' companies', '')
         
         return {
-            'business_name': f"{industry}",
+            'business_name': business_name,
             'service_type': service_type,
             'specific_need': f"{service_type}",
             'service_category': industry_lower,
@@ -174,7 +185,7 @@ class VoiceDemoGenerator:
         
         return customer_voice, receptionist_voice
     
-    def generate_conversation_script_with_gpt(self, industry: str) -> str:
+    def generate_conversation_script_with_gpt(self, industry: str, receptionist_name: str) -> str:
         """Generate a natural conversation script using GPT-4o"""
         context = self._get_industry_context(industry)
         conv_params = self.config['conversation']
@@ -190,41 +201,50 @@ Context:
 - Industry: {industry}
 - Services: {context['service_list']}
 - Customer name: {customer_name}
+- Receptionist name: {receptionist_name}
 - Phone: {conv_params['phone_number']}
 
+STRUCTURE & SCRIPTING:
+
+1. GREETING SETUP:
+   AI Receptionist: "Hi, this is {context['business_name']}. I am {receptionist_name}, {context['business_name']} AI receptionist. How can I help you today?"
+   (Ensure company name is complete, e.g. "{industry} Services" or "{context['business_name']}")
+
+2. CALLER SCENARIO:
+   The caller should briefly describe a relevant issue and ask 1-2 simple questions.
+   Examples of scenarios (ADAPT for {industry}):
+   - Dentist: "I want to come in for teeth cleaning... is it painful?"
+   - Repair: "My appliance is making a noise... can you fix it today?"
+   - General: "I've been having [problem]... I want to know if [service] can help."
+   
+   Caller says: "Hi, I'm {customer_name}. [Describe issue related to {industry}]. [Ask simple question]."
+
+3. RECEPTIONIST RESPONSE:
+   AI responds with a simple, helpful explanation about the service.
+
+4. APPOINTMENT STEP:
+   AI offers to book an appointment.
+   AI collects: First Name, Phone Number, Email.
+   
+5. CLOSING:
+   AI says: "Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details."
+   (Do NOT generate a confirmation number).
+
 CRITICAL Requirements:
-1. **AI RECEPTIONIST ANSWERS FIRST** - This is an INBOUND call, so start with the AI receptionist greeting
+1. **AI RECEPTIONIST ANSWERS FIRST** - This is an INBOUND call
 2. **DO NOT have the customer ask "How are you?"** - Only the AI receptionist may ask this
 3. **AI receptionist should NOT say "thanks for asking" unless the customer actually asked**
-4. Include realistic filler words ("um", "uh", "you know", "like", "actually") - especially for the customer
+4. Include realistic filler words ("um", "uh", "you know", "like", "actually")
 5. Add natural pauses indicated by "..." (ellipses)
 6. Customer should sound casual and friendly, not robotic
 7. AI receptionist should be warm, professional, and helpful
-8. Include realistic conversation flow with acknowledgments ("Great!", "Perfect!", "Sounds good!")
-9. Customer inquires about {context['specific_need']}
-10. AI recommends {context['recommended_service']}
-11. Book appointment for {conv_params['day1']} at {conv_params['time1']}
-12. Confirmation number: VIG{random.randint(1000, 9999)}
-13. Total length: 90-120 seconds when spoken
-14. End naturally with friendly goodbyes
-
-Conversation Flow:
-1. AI Receptionist answers the phone professionally
-2. Customer greets and states their need
-3. AI may ask "How are you today?" or similar (OPTIONAL)
-4. Customer responds and continues with their request
-5. Continue with service inquiry, booking, confirmation
+8. Total length: 90-120 seconds when spoken
 
 Format each line as:
 AI Receptionist: [dialogue]
 Customer: [dialogue]
 
-Make it sound like a REAL phone conversation, not a scripted one. Include hesitations and natural speech patterns.
-
-REMEMBER: 
-- AI receptionist speaks FIRST
-- Customer should NEVER ask "How are you?" to the AI
-- AI should NOT respond to questions that weren't asked"""
+Make it sound like a REAL phone conversation, not a scripted one."""
         
         try:
             response = self.openai_client.chat.completions.create(
@@ -314,7 +334,7 @@ REMEMBER:
         
         return "\n\n".join(conversation_parts)
     
-    def generate_audio(self, script: str, industry: str) -> Optional[Path]:
+    def generate_audio(self, script: str, industry: str, customer_voice: Dict, receptionist_voice: Dict) -> Optional[Path]:
         """Generate audio from conversation script using ElevenLabs"""
         try:
             # Parse the script to create dialogue format for ElevenLabs
@@ -337,8 +357,6 @@ REMEMBER:
             # For now, we'll generate a single voice version
             # In production, you'd want to use their Conversational AI API or generate separately and merge
             
-            # Select random voices for variety
-            customer_voice, receptionist_voice = self._select_random_voices()
             customer_voice_id = customer_voice['voice_id']
             receptionist_voice_id = receptionist_voice['voice_id']
             
@@ -417,16 +435,19 @@ REMEMBER:
         # Process with progress bar
         for industry in tqdm(target_industries, desc="Generating demos"):
             try:
-                # Generate script using GPT-4o
-                script = self.generate_conversation_script_with_gpt(industry)
+                # Select random voices for this industry
+                customer_voice, receptionist_voice = self._select_random_voices()
+                
+                # Generate script using GPT-4o with specific receptionist name
+                script = self.generate_conversation_script_with_gpt(industry, receptionist_voice['name'])
                 
                 # Save script for reference
                 script_path = self.output_dir / f"{self._slugify(industry)}_script.txt"
                 with open(script_path, 'w') as f:
                     f.write(script)
                 
-                # Generate audio
-                audio_path = self.generate_audio(script, industry)
+                # Generate audio with selected voices
+                audio_path = self.generate_audio(script, industry, customer_voice, receptionist_voice)
                 
                 if audio_path:
                     results['success'].append({

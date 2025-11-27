@@ -1,25 +1,27 @@
-AI Receptionist: Hi there! Thanks for calling Appliance Repair. This is the AI receptionist speaking. How can I help you today?
+AI Receptionist: Hi, this is Modern Appliance Repair Services. I am Dorothy, Modern Appliance Repair Services AI receptionist. How can I help you today?
 
-Customer: Hey, uh, this is David Thompson. I... um, I was hoping to get some information about your repair services. You know, I have a washing machine that's acting up.
+Customer: Hi, I'm Ryan Miller. Um, I have a washing machine that’s been making this weird, like, clunking noise whenever it spins. I was wondering if someone could come take a look at it—maybe even today?
 
-AI Receptionist: Sure, David! I'd be happy to help you with that. How are you doing today?
+AI Receptionist: Oh, that sounds like it could be really annoying. We definitely can help with that. Our technicians are pretty experienced with all kinds of washing machine issues. Uh, let me see... about getting someone out there today. Can I get some more details to book an appointment for you?
 
-Customer: Oh, I'm doing alright, just trying to get this sorted out. So, yeah, what can you tell me about your repair services? Like, do you have anything specific for, uh, washing machines?
+Customer: Yeah, sure. What do you need?
 
-AI Receptionist: Absolutely! We offer a variety of repair services, and our most popular one is the comprehensive appliance repair package. It covers diagnostics and repairs for a wide range of issues, which would be perfect for your washing machine. Would you like to book an appointment for that?
+AI Receptionist: Great! Could I start with your first name and a contact phone number?
 
-Customer: Yeah, that sounds like what I need. Um, when's the next available slot?
+Customer: Sure, it's Ryan, and my number is 555-0123.
 
-AI Receptionist: Let's see... We have an opening on Tuesday at 2 PM. Would that work for you?
+AI Receptionist: Thanks, Ryan. And do you have an email address we can send the appointment details to?
 
-Customer: Tuesday at 2... yeah, that should be fine. Let's go with that.
+Customer: Yeah, my email is ryan.miller@email.com.
 
-AI Receptionist: Great! I've got you booked in for Tuesday at 2 PM. Your confirmation number is VIG2076. Make sure to have that handy when our technician arrives.
+AI Receptionist: Perfect, I've got that down. Let me just... uh, check our schedule for today... Okay, I can have a technician come by this afternoon, around 3 PM. Does that work for you?
 
-Customer: Perfect, I've got it noted down. Thanks for all the help!
+Customer: Yeah, that time works perfectly.
 
-AI Receptionist: You're very welcome, David! If you have any more questions before the appointment, just give us a call. Have a great day!
+AI Receptionist: Awesome! Thank you for the information, Ryan. Your appointment is booked, and I've also messaged and emailed you the details. If you have any more questions, feel free to reach out.
 
-Customer: Will do! Thanks again. Bye!
+Customer: Great, thanks so much for your help, Dorothy.
 
-AI Receptionist: Bye now!
+AI Receptionist: You're welcome! Have a great day, Ryan. Goodbye.
+
+Customer: Bye!

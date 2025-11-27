@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Sterling Legal Associates. I am Bella, Sterling Legal Associates AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Uh, I'm looking into getting some help with estate planning. I've recently had, you know, some changes in my family situation, and I'm wondering if you guys can help set up a trust. Is that something you handle?
+
+AI Receptionist: Absolutely, Ryan. Estate planning, including setting up trusts, is one of our key services here at Sterling Legal Associates. Our attorneys can definitely assist you with that. Would you like to schedule an appointment to discuss your options in detail?
+
+Customer: Yeah, that sounds great. What information do you need from me?
+
+AI Receptionist: Perfect. Could I please have your first name, your phone number, and your email address?
+
+Customer: Sure, it's Ryan, and my phone number is 555-0123. My email’s ryan.miller@example.com.
+
+AI Receptionist: Thank you, Ryan. Your appointment is booked, and I've also sent you a message and an email with the details. If you have any questions before your appointment, feel free to reach out.
+
+Customer: Great, thanks a lot, Bella. I appreciate it.
+
+AI Receptionist: You're welcome, Ryan. We're looking forward to helping you with your estate planning. Have a wonderful day!
+
+Customer: You too, bye!

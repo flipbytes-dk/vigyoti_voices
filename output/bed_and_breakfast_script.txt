@@ -1,21 +1,21 @@
-AI Receptionist: Good morning! Thank you for calling Bed and Breakfast. This is Jenny speaking. How can I assist you today?
+AI Receptionist: Hi, this is Expert Bed and Breakfast Services. I am Grace, Expert Bed and Breakfast Services AI receptionist. How can I help you today?
 
-Customer: Hi Jenny! Uh, this is Daniel Garcia. I was, um, hoping to book an appointment... for a stay or something. Do you have anything available?
+Customer: Hi, I'm Michael Chen. Uh, I'm looking to book a getaway for a weekend and I heard you offer some really, um, specialized services for bed and breakfasts. I was wondering if you have any, like, recommendations or packages that might include local tours or activities?
 
-AI Receptionist: Hi Daniel! Nice to hear from you. Let me check our availability for you. How soon are you looking to book?
+AI Receptionist: Absolutely, Michael! We offer a range of packages that include not only a cozy stay at various charming bed and breakfasts but also guided tours and local experiences tailored to your interests. Um, are there any specific activities you're interested in, like wine tasting or hiking?
 
-Customer: Uh, maybe next week? Like, around Tuesday, if possible.
+Customer: Oh, that sounds great! I'm really into hiking and maybe some wine tasting... if that's an option?
 
-AI Receptionist: Great, let me just see... Okay, we do have an opening on Tuesday at 2 PM. Our most popular package includes a cozy room with a breakfast spread and a complimentary consultation to enhance your stay experience. Does that work for you?
+AI Receptionist: Definitely, we've got a couple of fantastic options that combine both. We can set you up with a guided hike in the morning and a wine tasting in the afternoon. Would you like to book a consultation to go over these packages in more detail?
 
-Customer: Yeah, that sounds perfect! Tuesday at 2 PM it is.
+Customer: Yeah, that sounds perfect. How do we go about setting that up?
 
-AI Receptionist: Wonderful! I'll go ahead and book that for you. Your confirmation number is VIG6375. Is there anything else I can help you with today?
+AI Receptionist: Great! I can book an appointment for you. Can I get your first name, phone number, and email to send the details over?
 
-Customer: Nope, that's all I needed. Thanks so much, Jenny!
+Customer: Sure, it's Michael... and my phone number is 555-0123. My email is michael.chen@example.com.
 
-AI Receptionist: You're welcome, Daniel. We're looking forward to your visit. Have a great day!
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I have also messaged and emailed you the details. We're excited to help plan your getaway!
 
-Customer: Thanks, you too! Bye!
+Customer: Awesome, thanks a lot, Grace. Looking forward to it!
 
-AI Receptionist: Goodbye!
+AI Receptionist: You're welcome, Michael! Have a great day, and we'll be in touch soon.

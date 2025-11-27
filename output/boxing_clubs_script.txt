@@ -1,21 +1,25 @@
-AI Receptionist: Hello, and thank you for calling Boxing Clubs, where champions train! This is Ava speaking. How can I assist you today?
+AI Receptionist: Hi, this is Quality Boxing Club Services. I am Bella, Quality Boxing Club Services AI receptionist. How can I help you today?
 
-Customer: Hey, um, this is Matthew Anderson. I was hoping to, uh, book an appointment. Do you guys have any openings next week?
+Customer: Hi, I'm Michael Chen. Uh, I’ve been thinking about starting boxing classes and I wanted to know, like, do you guys offer beginner sessions? I'm pretty new to all this.
 
-AI Receptionist: Hi, Matthew! Great to hear from you. Let me check our schedule real quick... How does Tuesday at 2 PM sound for you?
+AI Receptionist: Absolutely, Michael! We definitely offer beginner classes. They're really popular for folks just starting out, and our trainers are great at getting you comfortable with the basics. Is there anything else you’d like to know about the classes?
 
-Customer: Tuesday at 2 PM? Yeah, that actually works for me. What, uh, services do you offer with that appointment?
+Customer: Oh, that's good to hear. Um, yeah, I was also wondering, are there any weekend sessions? My weekdays are kinda packed.
 
-AI Receptionist: Perfect! We offer a variety of services, but our most popular package is the "Champion's Session." It includes a personal consultation and a one-hour training session with one of our top coaches. Does that sound good to you?
+AI Receptionist: Yes, we do have weekend classes. We try to accommodate different schedules, so you’ll find a few options on both Saturdays and Sundays. Would you like me to help set up an appointment for your first class?
 
-Customer: Yeah, that sounds awesome. I'll go with that one.
+Customer: Yeah, that’d be great. What do you need from me to get that set up?
 
-AI Receptionist: Great choice, Matthew! Let me just book that for you... Alright, you're all set for Tuesday at 2 PM. Your confirmation number is VIG8872. Is there anything else I can help you with?
+AI Receptionist: Perfect! I’ll just need your first name, which I have as Michael, your phone number, and your email address.
 
-Customer: Uh, no, I think that covers it. Thanks a lot!
+Customer: Sure thing. My phone number is 555-0123, and my email is michael.chen@gmail.com.
 
-AI Receptionist: You're welcome, Matthew! We look forward to seeing you on Tuesday. Have a wonderful day!
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I’ve also messaged and emailed you the details. You’ll get a reminder before your class. Anything else I can assist you with today?
+
+Customer: No, that covers it. Thanks, Bella!
+
+AI Receptionist: You're welcome, Michael. Looking forward to seeing you at the club! Have a great day!
 
 Customer: Thanks, you too! Bye!
 
-AI Receptionist: Goodbye!
+AI Receptionist: Bye!

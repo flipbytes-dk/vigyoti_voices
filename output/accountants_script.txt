@@ -1,25 +1,29 @@
-AI Receptionist: Good afternoon, Precision Tax & Accounting, this is the AI receptionist speaking. How can I assist you today?
+AI Receptionist: Hi, this is Precision Tax & Accounting. I am Lily, Precision Tax & Accounting AI receptionist. How can I help you today?
 
-Customer: Hi, uh, this is Andrew Davis. I was wondering about some help with, like, small business taxes. Do you guys handle that?
+Customer: Hi, I'm John Williams. Uh, I'm calling because I'm a bit confused about some tax preparation stuff... I think I might need some help with filing my taxes this year. I was wondering if you guys could, you know, assist with that?
 
-AI Receptionist: Absolutely, Andrew! We specialize in small business taxes among other services. How are you doing today?
+AI Receptionist: Absolutely, John. We specialize in tax preparation and can definitely help you with filing your taxes. Do you have any specific questions about the process, or would you like to schedule a time to speak with one of our accountants?
 
-Customer: I'm good, thanks. So, um, I just started my own little business and I'm kinda new to this whole tax thing. I really need some guidance.
+Customer: That sounds great. Uh, I think I'd like to set up an appointment to discuss it with someone. 
 
-AI Receptionist: Of course, starting a new business is exciting but taxes can definitely be a bit overwhelming. I'd recommend setting up a business tax consultation with one of our experts. They can walk you through everything you need to know.
+AI Receptionist: Sure thing! Let's get that scheduled for you. Can I have your first name just to confirm?
 
-Customer: Yeah, that sounds perfect. When could we, uh, do that?
+Customer: Yeah, it’s John.
 
-AI Receptionist: Let me check our schedule real quick... Okay, how does Tuesday at 2 PM sound for you?
+AI Receptionist: Perfect, John. And could I get your phone number, please?
 
-Customer: Tuesday at 2 PM works great.
+Customer: Sure, it’s 555-0123.
 
-AI Receptionist: Great! I’ve got you down for a consultation on Tuesday at 2 PM. Your confirmation number is VIG9188. Is there anything else I can help you with today?
+AI Receptionist: Great, and do you have an email address where we can send the appointment details?
 
-Customer: Uh, no, I think that covers it. Thanks a lot!
+Customer: Yes, it’s johnwilliams@gmail.com.
 
-AI Receptionist: You're welcome, Andrew! We're looking forward to helping you with your business taxes. Have a wonderful day!
+AI Receptionist: Got it, thanks. I’ve set up an appointment for you with one of our tax specialists. You should receive a message and an email shortly with all the details.
 
-Customer: Thanks, you too! Bye!
+Customer: Awesome, thank you so much.
+
+AI Receptionist: You're welcome, John. If you have any other questions, feel free to reach out. Thank you for calling Precision Tax & Accounting. Have a great day!
+
+Customer: Thanks, you too. Bye.
 
 AI Receptionist: Goodbye!
