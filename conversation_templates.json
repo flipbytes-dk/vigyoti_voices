@@ -1,0 +1,372 @@
+{
+    "greeting": [
+        "Hi, I'm calling about {service_type}.",
+        "Hello, I'd like to inquire about your services.",
+        "Good {time_of_day}, I need to schedule an appointment.",
+        "Hi there, I was hoping to book {service_type}."
+    ],
+    "receptionist_greeting": [
+        "Hello! Thank you for calling {business_name}. I'm your AI assistant. How can I help you today?",
+        "Good {time_of_day}! You've reached {business_name}. I'd be happy to assist you. What can I do for you?",
+        "Welcome to {business_name}! I'm here to help. What brings you in today?",
+        "Hi! Thanks for calling {business_name}. How may I assist you?"
+    ],
+    "service_inquiry": [
+        "What services do you offer for {specific_need}?",
+        "I'm interested in {service_type}. What are my options?",
+        "Can you tell me more about your {service_category} services?",
+        "Do you handle {specific_need}?"
+    ],
+    "receptionist_service_response": [
+        "Absolutely! We specialize in {service_list}. For {specific_need}, I'd recommend {recommended_service}. Would you like to schedule an appointment?",
+        "Great question! We offer {service_list}. Based on what you're looking for, {recommended_service} would be perfect. When would you like to come in?",
+        "Yes, we do! Our {service_category} services include {service_list}. I can get you scheduled right away. What day works best for you?",
+        "We'd be happy to help with that! We provide {service_list}. Shall I check our availability for you?"
+    ],
+    "booking_request": [
+        "That sounds perfect. What's your availability this week?",
+        "Great! When do you have openings?",
+        "I'd like to book an appointment. What times do you have available?",
+        "Yes, please. What days are you open?"
+    ],
+    "receptionist_availability": [
+        "Let me check our schedule. We have availability on {day1} at {time1}, {day2} at {time2}, or {day3} at {time3}. Which works best for you?",
+        "I can see several openings. How about {day1} at {time1} or {day2} at {time2}? We also have {day3} at {time3} available.",
+        "Perfect! I have {day1} at {time1}, {day2} at {time2}, and {day3} at {time3} open. What's your preference?",
+        "Great! Looking at our calendar, we can fit you in on {day1} at {time1}, {day2} at {time2}, or {day3} at {time3}. Which would you prefer?"
+    ],
+    "customer_selection": [
+        "{day1} at {time1} works perfectly for me.",
+        "I'll take the {day2} at {time2} slot.",
+        "Let's do {day3} at {time3}.",
+        "{day1} at {time1} would be ideal."
+    ],
+    "receptionist_confirmation": [
+        "Excellent! I have you scheduled for {selected_day} at {selected_time}. Can I get your name and phone number to confirm the booking?",
+        "Perfect! You're all set for {selected_day} at {selected_time}. May I have your name and contact number?",
+        "Great choice! I'm booking you for {selected_day} at {selected_time}. What name should I put this under?",
+        "Wonderful! {selected_day} at {selected_time} is confirmed. Could you provide your name and phone number for our records?"
+    ],
+    "customer_details": [
+        "Sure, it's {customer_name} and my number is {phone_number}.",
+        "Yes, {customer_name}, and you can reach me at {phone_number}.",
+        "My name is {customer_name} and my phone is {phone_number}.",
+        "It's {customer_name}, {phone_number}."
+    ],
+    "receptionist_final_confirmation": [
+        "Perfect, {customer_name}! You're all confirmed for {selected_day} at {selected_time}. Your confirmation number is {confirmation_code}. We'll send you a reminder text. Is there anything else I can help you with?",
+        "Thank you, {customer_name}! Your appointment is confirmed for {selected_day} at {selected_time}. Confirmation number {confirmation_code}. You'll receive a text reminder. Anything else you need?",
+        "All set, {customer_name}! We have you down for {selected_day} at {selected_time}. Your confirmation is {confirmation_code}. We'll text you a reminder. Can I help with anything else?",
+        "Excellent! You're confirmed for {selected_day} at {selected_time}, {customer_name}. Reference number {confirmation_code}. Expect a text reminder. Is there anything else?"
+    ],
+    "customer_closing": [
+        "No, that's all. Thank you so much!",
+        "That's everything. Thanks for your help!",
+        "Nope, I'm all set. Thank you!",
+        "That's it. I appreciate it!"
+    ],
+    "receptionist_closing": [
+        "You're very welcome! We look forward to seeing you on {selected_day}. Have a great day!",
+        "My pleasure! See you {selected_day}. Take care!",
+        "Happy to help! We'll see you {selected_day} at {selected_time}. Goodbye!",
+        "You're welcome! Looking forward to your visit on {selected_day}. Have a wonderful day!"
+    ],
+    "industry_contexts": {
+        "Hair Salons": {
+            "business_name": "Luxe Hair Studio",
+            "service_type": "a haircut and color",
+            "specific_need": "highlights and a trim",
+            "service_category": "hair styling",
+            "service_list": "cuts, color, highlights, balayage, and treatments",
+            "recommended_service": "our signature highlight and trim package"
+        },
+        "Dentists": {
+            "business_name": "Bright Smile Dental",
+            "service_type": "a dental cleaning",
+            "specific_need": "a routine checkup",
+            "service_category": "dental care",
+            "service_list": "cleanings, exams, fillings, whitening, and cosmetic dentistry",
+            "recommended_service": "a comprehensive cleaning and exam"
+        },
+        "Law Firms": {
+            "business_name": "Sterling Legal Associates",
+            "service_type": "legal consultation",
+            "specific_need": "estate planning",
+            "service_category": "legal",
+            "service_list": "estate planning, business law, family law, and litigation",
+            "recommended_service": "an initial estate planning consultation"
+        },
+        "HVAC Services": {
+            "business_name": "Climate Control Experts",
+            "service_type": "AC repair",
+            "specific_need": "air conditioning maintenance",
+            "service_category": "HVAC",
+            "service_list": "AC repair, heating installation, maintenance, and emergency services",
+            "recommended_service": "a full system inspection and tune-up"
+        },
+        "Gyms": {
+            "business_name": "FitLife Fitness Center",
+            "service_type": "a gym membership",
+            "specific_need": "personal training",
+            "service_category": "fitness",
+            "service_list": "memberships, personal training, group classes, and nutrition coaching",
+            "recommended_service": "our starter package with three personal training sessions"
+        },
+        "Plumbing Services": {
+            "business_name": "ProFlow Plumbing",
+            "service_type": "plumbing repair",
+            "specific_need": "a leaky faucet",
+            "service_category": "plumbing",
+            "service_list": "repairs, installations, drain cleaning, and emergency services",
+            "recommended_service": "a service call to fix that leak"
+        },
+        "Real Estate Agents": {
+            "business_name": "Premier Properties Realty",
+            "service_type": "home buying assistance",
+            "specific_need": "finding a family home",
+            "service_category": "real estate",
+            "service_list": "buying, selling, property management, and investment consulting",
+            "recommended_service": "a buyer consultation to discuss your needs"
+        },
+        "Veterinary Clinics": {
+            "business_name": "Caring Paws Veterinary",
+            "service_type": "a checkup for my dog",
+            "specific_need": "vaccinations",
+            "service_category": "veterinary",
+            "service_list": "wellness exams, vaccinations, surgery, and dental care",
+            "recommended_service": "a wellness exam with updated vaccinations"
+        },
+        "Massage and Spas": {
+            "business_name": "Serenity Spa & Wellness",
+            "service_type": "a massage",
+            "specific_need": "deep tissue massage",
+            "service_category": "spa",
+            "service_list": "Swedish massage, deep tissue, hot stone, aromatherapy, and facials",
+            "recommended_service": "our 90-minute deep tissue massage"
+        },
+        "Accountants": {
+            "business_name": "Precision Tax & Accounting",
+            "service_type": "tax preparation",
+            "specific_need": "small business taxes",
+            "service_category": "accounting",
+            "service_list": "tax preparation, bookkeeping, payroll, and business consulting",
+            "recommended_service": "a business tax consultation"
+        },
+        "Chiropractors": {
+            "business_name": "Align Chiropractic Care",
+            "service_type": "chiropractic adjustment",
+            "specific_need": "back pain relief",
+            "service_category": "chiropractic",
+            "service_list": "adjustments, spinal decompression, massage therapy, and wellness plans",
+            "recommended_service": "an initial assessment and adjustment"
+        },
+        "Personal Trainers": {
+            "business_name": "Peak Performance Training",
+            "service_type": "personal training",
+            "specific_need": "weight loss coaching",
+            "service_category": "fitness",
+            "service_list": "one-on-one training, nutrition planning, group sessions, and online coaching",
+            "recommended_service": "our weight loss transformation package"
+        },
+        "Photographers": {
+            "business_name": "Moments Photography Studio",
+            "service_type": "family photos",
+            "specific_need": "holiday portraits",
+            "service_category": "photography",
+            "service_list": "portraits, weddings, events, commercial, and headshots",
+            "recommended_service": "our family portrait session with holiday backdrops"
+        },
+        "Electricians": {
+            "business_name": "Bright Spark Electric",
+            "service_type": "electrical repair",
+            "specific_need": "outlet installation",
+            "service_category": "electrical",
+            "service_list": "repairs, installations, panel upgrades, and emergency services",
+            "recommended_service": "a service visit for outlet installation"
+        },
+        "Car Repair Shops": {
+            "business_name": "AutoCare Service Center",
+            "service_type": "oil change",
+            "specific_need": "brake inspection",
+            "service_category": "automotive",
+            "service_list": "oil changes, brake service, tire rotation, diagnostics, and inspections",
+            "recommended_service": "our complete maintenance package with brake check"
+        },
+        "Yoga Studios": {
+            "business_name": "Zen Flow Yoga",
+            "service_type": "yoga classes",
+            "specific_need": "beginner classes",
+            "service_category": "wellness",
+            "service_list": "beginner yoga, vinyasa, hot yoga, meditation, and private sessions",
+            "recommended_service": "our beginner-friendly intro package"
+        },
+        "Landscaping Services": {
+            "business_name": "GreenScape Landscaping",
+            "service_type": "lawn care",
+            "specific_need": "spring cleanup",
+            "service_category": "landscaping",
+            "service_list": "lawn maintenance, design, planting, irrigation, and seasonal cleanup",
+            "recommended_service": "our comprehensive spring cleanup service"
+        },
+        "Pet Groomers": {
+            "business_name": "Pampered Paws Grooming",
+            "service_type": "dog grooming",
+            "specific_need": "full grooming",
+            "service_category": "pet care",
+            "service_list": "baths, haircuts, nail trimming, teeth cleaning, and spa treatments",
+            "recommended_service": "our deluxe grooming package"
+        },
+        "Cleaning Companies": {
+            "business_name": "Sparkle Clean Services",
+            "service_type": "house cleaning",
+            "specific_need": "deep cleaning",
+            "service_category": "cleaning",
+            "service_list": "regular cleaning, deep cleaning, move-out cleaning, and office cleaning",
+            "recommended_service": "our thorough deep cleaning service"
+        },
+        "Tutoring Centers": {
+            "business_name": "BrightMinds Tutoring",
+            "service_type": "math tutoring",
+            "specific_need": "SAT prep",
+            "service_category": "education",
+            "service_list": "math, science, English, test prep, and homework help",
+            "recommended_service": "our comprehensive SAT preparation program"
+        },
+        "Wedding Planners": {
+            "business_name": "Forever Events Planning",
+            "service_type": "wedding planning",
+            "specific_need": "full-service planning",
+            "service_category": "event planning",
+            "service_list": "full planning, day-of coordination, vendor management, and design",
+            "recommended_service": "our complete wedding planning package"
+        },
+        "Florists": {
+            "business_name": "Bloom & Petal Florist",
+            "service_type": "flower arrangement",
+            "specific_need": "wedding flowers",
+            "service_category": "floral",
+            "service_list": "bouquets, arrangements, wedding flowers, events, and delivery",
+            "recommended_service": "a wedding floral consultation"
+        },
+        "IT Services": {
+            "business_name": "TechSupport Pro",
+            "service_type": "computer repair",
+            "specific_need": "network setup",
+            "service_category": "IT",
+            "service_list": "repairs, network setup, data recovery, cybersecurity, and managed IT",
+            "recommended_service": "our business network installation service"
+        },
+        "Pest Control": {
+            "business_name": "Guardian Pest Solutions",
+            "service_type": "pest control",
+            "specific_need": "termite inspection",
+            "service_category": "pest management",
+            "service_list": "inspections, treatments, prevention, termite control, and wildlife removal",
+            "recommended_service": "a comprehensive termite inspection and treatment plan"
+        },
+        "Roofing Companies": {
+            "business_name": "Summit Roofing Contractors",
+            "service_type": "roof repair",
+            "specific_need": "leak repair",
+            "service_category": "roofing",
+            "service_list": "repairs, replacements, inspections, gutter installation, and maintenance",
+            "recommended_service": "a roof inspection and leak repair service"
+        },
+        "Insurance Brokers": {
+            "business_name": "SecureLife Insurance",
+            "service_type": "insurance quote",
+            "specific_need": "home insurance",
+            "service_category": "insurance",
+            "service_list": "home, auto, life, business, and health insurance",
+            "recommended_service": "a personalized home insurance consultation"
+        },
+        "Dance Studios": {
+            "business_name": "Rhythm Dance Academy",
+            "service_type": "dance classes",
+            "specific_need": "ballet for kids",
+            "service_category": "dance",
+            "service_list": "ballet, jazz, hip-hop, contemporary, and private lessons",
+            "recommended_service": "our children's ballet program"
+        },
+        "Catering Services": {
+            "business_name": "Gourmet Catering Co",
+            "service_type": "event catering",
+            "specific_need": "corporate event",
+            "service_category": "catering",
+            "service_list": "corporate events, weddings, private parties, buffets, and plated dinners",
+            "recommended_service": "our executive corporate catering package"
+        },
+        "Financial Advisors": {
+            "business_name": "Wealth Management Partners",
+            "service_type": "financial planning",
+            "specific_need": "retirement planning",
+            "service_category": "financial",
+            "service_list": "retirement planning, investment management, estate planning, and tax strategies",
+            "recommended_service": "a comprehensive retirement planning consultation"
+        },
+        "Martial Arts Schools": {
+            "business_name": "Dragon Martial Arts Academy",
+            "service_type": "martial arts classes",
+            "specific_need": "karate for kids",
+            "service_category": "martial arts",
+            "service_list": "karate, taekwondo, jiu-jitsu, self-defense, and fitness classes",
+            "recommended_service": "our youth karate program"
+        },
+        "Nail Salons": {
+            "business_name": "Polished Nails & Spa",
+            "service_type": "manicure",
+            "specific_need": "gel manicure",
+            "service_category": "nail care",
+            "service_list": "manicures, pedicures, gel nails, acrylics, and nail art",
+            "recommended_service": "our signature gel manicure and pedicure combo"
+        },
+        "Travel Agencies": {
+            "business_name": "Wanderlust Travel Services",
+            "service_type": "vacation planning",
+            "specific_need": "European tour",
+            "service_category": "travel",
+            "service_list": "vacation packages, cruises, flights, hotels, and custom itineraries",
+            "recommended_service": "our all-inclusive European tour package"
+        },
+        "Therapists": {
+            "business_name": "Mindful Counseling Center",
+            "service_type": "therapy session",
+            "specific_need": "anxiety counseling",
+            "service_category": "mental health",
+            "service_list": "individual therapy, couples counseling, family therapy, and group sessions",
+            "recommended_service": "an initial assessment for anxiety treatment"
+        },
+        "Interior Designers": {
+            "business_name": "Elegant Interiors Design",
+            "service_type": "interior design",
+            "specific_need": "living room redesign",
+            "service_category": "design",
+            "service_list": "residential design, commercial spaces, color consultation, and furniture selection",
+            "recommended_service": "a complete living room transformation package"
+        },
+        "Music Teachers": {
+            "business_name": "Harmony Music Academy",
+            "service_type": "music lessons",
+            "specific_need": "piano lessons",
+            "service_category": "music education",
+            "service_list": "piano, guitar, voice, drums, and music theory",
+            "recommended_service": "our beginner piano lesson series"
+        },
+        "Handyman Services": {
+            "business_name": "Fix-It-All Handyman",
+            "service_type": "home repairs",
+            "specific_need": "drywall repair",
+            "service_category": "handyman",
+            "service_list": "repairs, installations, painting, carpentry, and maintenance",
+            "recommended_service": "our drywall repair and painting service"
+        },
+        "Pool Services": {
+            "business_name": "Crystal Clear Pool Care",
+            "service_type": "pool maintenance",
+            "specific_need": "weekly cleaning",
+            "service_category": "pool care",
+            "service_list": "cleaning, chemical balancing, repairs, equipment installation, and winterization",
+            "recommended_service": "our weekly maintenance plan"
+        }
+    }
+}

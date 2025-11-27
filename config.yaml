@@ -1,0 +1,149 @@
+# ElevenLabs API Configuration
+api:
+  elevenlabs_api_key: "${ELEVENLABS_API_KEY}"  # Set in .env file
+  base_url: "https://api.elevenlabs.io/v1"
+  model: "eleven_turbo_v2_5"  # Fast, high-quality model for dialogue
+
+# OpenAI API Configuration (for natural conversation generation)
+openai:
+  api_key: "${OPENAI_API_KEY}"  # Set in .env file
+  model: "gpt-4o"  # Latest GPT-4o model for natural dialogue
+  temperature: 0.8  # Higher for more creative, natural responses
+  max_tokens: 1000
+
+# Voice Configuration
+voices:
+  # Customer voice pool (male voices with diverse accents)
+  customer_pool:
+    - voice_id: "IKne3meq5aSn9XLyUdCD"  # Charlie - American, casual
+      name: "Charlie"
+      accent: "American"
+    - voice_id: "onwK4e9ZLuTAKqWW03F9"  # Daniel - British, clear
+      name: "Daniel"
+      accent: "British"
+    - voice_id: "nPczCjzI2devNBz1zQrb"  # Brian - American, friendly
+      name: "Brian"
+      accent: "American"
+    - voice_id: "pNInz6obpgDQGcFmaJgB"  # Adam - American, deep
+      name: "Adam"
+      accent: "American"
+    - voice_id: "VR6AewLTigWG4xSOukaG"  # Arnold - American, strong
+      name: "Arnold"
+      accent: "American"
+    - voice_id: "TxGEqnHWrfWFTfGW9XjX"  # Josh - American, young
+      name: "Josh"
+      accent: "American"
+    - voice_id: "ErXwobaYiN019PkySvjV"  # Antoni - British, warm
+      name: "Antoni"
+      accent: "British"
+    - voice_id: "yoZ06aMxZJJ28mfd3POQ"  # Sam - American, neutral
+      name: "Sam"
+      accent: "American"
+    - voice_id: "CYw3kZ02Hs0563khs1Fj"  # Dave - British-American
+      name: "Dave"
+      accent: "British-American"
+    - voice_id: "ODq5zmih8GrVes37Dizd"  # Patrick - American, mature
+      name: "Patrick"
+      accent: "American"
+  
+  # Receptionist voice pool (female voices with diverse accents)
+  receptionist_pool:
+    - voice_id: "pFZP5JQG7iQjIQuC4Bku"  # Lily - British, warm
+      name: "Lily"
+      accent: "British"
+    - voice_id: "21m00Tcm4TlvDq8ikWAM"  # Rachel - American, professional
+      name: "Rachel"
+      accent: "American"
+    - voice_id: "EXAVITQu4vr4xnSDxMaL"  # Bella - American, calm
+      name: "Bella"
+      accent: "American"
+    - voice_id: "ThT5KcBeYPX3keUQqHPh"  # Dorothy - British, pleasant
+      name: "Dorothy"
+      accent: "British"
+    - voice_id: "MF3mGyEYCl7XYWbV9V6O"  # Elli - American, young
+      name: "Elli"
+      accent: "American"
+    - voice_id: "XrExE9yKIg1WjnnlVkGX"  # Matilda - American, warm
+      name: "Matilda"
+      accent: "American"
+    - voice_id: "jsCqWAovK2LkecY7zXl4"  # Freya - American, clear
+      name: "Freya"
+      accent: "American"
+    - voice_id: "jBpfuIE2acCO8z3wKNLl"  # Gigi - American, energetic
+      name: "Gigi"
+      accent: "American"
+    - voice_id: "oWAxZDx7w5VEj9dCyTzz"  # Grace - American-Southern
+      name: "Grace"
+      accent: "American-Southern"
+    - voice_id: "XB0fDUnXU5powFXDhCwa"  # Charlotte - British-Swedish
+      name: "Charlotte"
+      accent: "British-Swedish"
+  
+  # Voice settings (applied to all voices)
+  customer_settings:
+    stability: 0.4
+    similarity_boost: 0.7
+    style: 0.3
+    use_speaker_boost: true
+  
+  receptionist_settings:
+    stability: 0.5
+    similarity_boost: 0.75
+    style: 0.2
+    use_speaker_boost: true
+
+# Conversation Parameters
+conversation:
+  target_duration_seconds: 90  # 75-120 seconds for more natural flow
+  time_of_day: "afternoon"
+  
+  # Customer name pool (male names to match male voice)
+  customer_names:
+    - "James Martinez"
+    - "Michael Chen"
+    - "David Thompson"
+    - "Robert Johnson"
+    - "John Williams"
+    - "Daniel Garcia"
+    - "Christopher Lee"
+    - "Matthew Anderson"
+    - "Andrew Davis"
+    - "Ryan Miller"
+  
+  phone_number: "555-0123"
+  
+  # Natural speech settings
+  include_filler_words: true  # Add "um", "uh", "you know", etc.
+  include_pauses: true  # Add natural pauses with ellipses
+  include_greetings: true  # Start with casual greetings
+  realistic_flow: true  # More natural conversation progression
+  
+  # Appointment slots
+  day1: "Tuesday"
+  time1: "2 PM"
+  day2: "Thursday"
+  time2: "10:30 AM"
+  day3: "Friday"
+  time3: "3:45 PM"
+
+# Output Settings
+output:
+  directory: "./output"
+  format: "mp3"
+  sample_rate: 44100
+  bitrate: 128
+  naming_convention: "{industry_slug}_ai_receptionist_demo.mp3"
+
+# Processing Settings
+processing:
+  batch_size: 5  # Number of concurrent API requests
+  rate_limit_delay: 2  # Seconds between batches
+  max_retries: 3
+  retry_delay: 5
+  timeout: 60
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  file: "generation.log"
+  console: true
