@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Premier Properties Realty. I am Bella, Premier Properties Realty AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I'm looking into buying a property, and I'm a bit unsure about the whole process, you know? Like, what's the first step I should take, and do you guys help with finding good investment options?
+
+AI Receptionist: Absolutely, John! We can definitely assist with both finding the right property and exploring investment options. The first step would usually be to have a consultation with one of our agents to understand your needs and goals. They can guide you through the entire process, from selecting a property to finalizing the purchase.
+
+Customer: Oh, okay, that sounds great. Um, could I set up an appointment with an agent then?
+
+AI Receptionist: Of course! I'd be happy to help with that. Could I get your first name, your phone number, and your email address to set up the appointment?
+
+Customer: Sure, it's John, and my phone number is 555-0123. My email is john.williams@example.com.
+
+AI Receptionist: Got it, John. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: Nope, that's all for now. Thanks a lot, Bella.
+
+AI Receptionist: You're welcome, John. Have a great day, and we look forward to helping you find the perfect property!
+
+Customer: Thanks! Bye.

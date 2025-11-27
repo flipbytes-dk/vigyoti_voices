@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Modern Medical and Wellness Clinic. I am Gigi, Modern Medical and Wellness Clinic AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I've been having some back pain lately and, um, I'm wondering if you guys offer any sort of, like, treatment or consultation services for that?
+
+AI Receptionist: Absolutely, John. We offer a range of services for back pain, including consultations with our wellness specialists. They can help assess your situation and recommend the best course of action, whether it's physical therapy, chiropractic care, or something else specific to your needs.
+
+Customer: Oh, that's great to hear. So, uh, how do I go about, like, setting up a consultation?
+
+AI Receptionist: I can help you with that right now. Let's get you scheduled for an appointment. Could you please provide me with your first name, phone number, and email address?
+
+Customer: Sure thing. It's John... and my phone number is 555-0123. My email is jwilliams@email.com.
+
+AI Receptionist: Thank you, John. Your appointment is all set, and I've just sent you a message and an email with the details. Is there anything else I can help you with today?
+
+Customer: No, that's all I needed. Thanks a lot, Gigi.
+
+AI Receptionist: You're welcome! Thank you for contacting Modern Medical and Wellness Clinic. We look forward to helping you feel better soon. Have a great day!
+
+Customer: Thanks, you too. Bye!

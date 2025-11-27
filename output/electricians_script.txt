@@ -1,0 +1,29 @@
+AI Receptionist: Hi, this is Bright Spark Electric. I am Charlotte, Bright Spark Electric AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Andrew Davis. Um, I've been having some flickering lights in my house, and I'm worried it might be a wiring issue. Do you guys handle that, and can it be dangerous?
+
+AI Receptionist: Oh, hi Andrew! Yes, flickering lights can indeed be a sign of a wiring problem, and it’s definitely something we can help with. It can be potentially dangerous, especially if it's related to faulty wiring or connections, so it's good that you’re reaching out. 
+
+Customer: Yeah, I figured it was better to get it checked sooner rather than later.
+
+AI Receptionist: Absolutely, it’s always better to be safe. We can have one of our electricians come out and take a look. Would you like to book an appointment for that?
+
+Customer: That would be great. Uh, how soon could someone come over?
+
+AI Receptionist: Let me check... We actually have an opening tomorrow afternoon, if that works for you?
+
+Customer: Tomorrow afternoon sounds perfect.
+
+AI Receptionist: Great! Could I get your first name, phone number, and email to set up the appointment?
+
+Customer: Sure, it’s Andrew, and the phone number is 555-0123. My email is andrew.davis@email.com.
+
+AI Receptionist: Thank you for the information, Andrew. Your appointment is booked, and I’ve also messaged and emailed you the details. Is there anything else I can help with today?
+
+Customer: No, that’s all. Thanks so much for the help!
+
+AI Receptionist: You’re welcome! Have a great day, Andrew, and we'll see you tomorrow.
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Bye!

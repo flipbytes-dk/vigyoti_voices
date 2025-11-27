@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Advanced Event Planner Services. I am Dorothy, Advanced Event Planner Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Matthew Anderson. I'm planning a, uh, corporate event and I’m trying to figure out if you guys handle, like, themed events. Um, do you have any experience with those?
+
+AI Receptionist: Yes, Matthew, we definitely do! We specialize in creating unique and customized themed events. Whether it's a corporate event, a gala, or any specialized theme you have in mind, our team can help you bring your vision to life. Is there a specific theme you’re considering?
+
+Customer: Oh, that’s great to hear. We’re actually thinking of a 'Roaring Twenties' theme... you know, with the whole jazz and speakeasy vibe. I just wanted to know if you guys could handle something like that.
+
+AI Receptionist: Absolutely, that sounds like a lot of fun! We can definitely help with a 'Roaring Twenties' theme. Our planners will work with you on everything from decorations to entertainment to make sure it captures that era perfectly. Would you like to set up a consultation to discuss this in more detail?
+
+Customer: Yeah, I think that would be really helpful. Can we schedule something for, uh, next week maybe?
+
+AI Receptionist: Sure thing, Matthew. Could you please provide me with your phone number and email to set up the appointment?
+
+Customer: Of course! My phone number is 555-0123, and my email is manderson@example.com.
+
+AI Receptionist: Great, I’ve got that. Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details. If you need to make any changes, feel free to reach out.
+
+Customer: Perfect, thanks so much for your help, Dorothy!
+
+AI Receptionist: You’re very welcome, Matthew. Have a wonderful day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Wealth Management Partners. I am Freya, Wealth Management Partners AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. I've been thinking about my retirement plan and I, uh, realized I might need some professional advice to make sure I'm on the right track. Do you guys help with, like, reviewing existing retirement plans?
+
+AI Receptionist: Absolutely, Michael! We specialize in retirement planning, and we can definitely help you review and refine your current plan to ensure it's aligned with your goals. Would you like to set up an appointment with one of our advisors to discuss this in more detail?
+
+Customer: Yeah, that sounds good. Uh, what kind of information should I prepare before the meeting?
+
+AI Receptionist: Great question! It would be helpful to bring any recent financial statements, your current retirement plan details, and, if possible, any specific questions or goals you have in mind. This will help our advisor provide more tailored advice. Can I go ahead and book an appointment for you?
+
+Customer: Sure, let's do it.
+
+AI Receptionist: Perfect. Could you please provide me with your first name, phone number, and email address?
+
+Customer: It's Michael, phone number is 555-0123, and my email is michael.chen@example.com.
+
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I have also messaged and emailed you the details. Is there anything else I can assist you with today?
+
+Customer: Nope, that covers it. Thanks a lot, Freya!
+
+AI Receptionist: You're welcome! Have a great day, Michael. Goodbye!

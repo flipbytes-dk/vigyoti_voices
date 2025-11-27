@@ -1,25 +1,23 @@
-AI Receptionist: Hi, this is Luxe Hair Studio. I am Rachel, Luxe Hair Studio AI receptionist. How can I help you today?
+AI Receptionist: Hi, this is Luxe Hair Studio. I am Charlotte, Luxe Hair Studio AI receptionist. How can I help you today?
 
-Customer: Hi, I'm Michael Chen. I wanted to ask about getting a balayage done... um, I've never had it before. Is it, like, a long process?
+Customer: Hi, I'm Robert Johnson. Uh, I'm looking to get a haircut and maybe some highlights. I've never done highlights before, so I'm a bit, you know, curious... um, do you think it would be a good idea for a first-timer like me?
 
-AI Receptionist: Hi Michael! Great to hear from you. A balayage is a really popular service, and it's perfect for a natural, sun-kissed look. It does take a bit longer than regular highlights, usually about two to three hours, depending on your hair length and the look you're going for. But our stylists make it a really relaxing experience.
+AI Receptionist: Oh, highlights can definitely add some great dimension to your hair, Robert. Our stylists are really experienced with first-timers, and they'll help you choose shades that complement your natural color. It’s a popular choice, and we’ll guide you through it so you feel comfortable and happy with the result.
 
-Customer: Oh, that sounds good. Do you guys have any openings this weekend?
+Customer: That sounds good. Uh, how long does the whole process usually take?
 
-AI Receptionist: Let me check that for you... Yes! We do have some availability this Saturday afternoon and a couple of openings on Sunday morning. Would either of those work for you?
+AI Receptionist: Typically, a haircut and highlights can take around two to three hours, depending on your hair length and the look you're going for. We make sure our clients have a relaxing experience while they’re here.
 
-Customer: Saturday afternoon sounds perfect.
+Customer: Alright, that sounds manageable. Can I book an appointment for, like, maybe next week?
 
-AI Receptionist: Excellent choice, Michael. Could I get your phone number and email to book the appointment?
+AI Receptionist: Absolutely, I can help with that. Could I have your first name, phone number, and email to get started?
 
-Customer: Sure, my number is 555-0123, and my email is michael.chen@email.com.
+Customer: Sure, it's Robert... phone number is 555-0123, and my email is robert.j@email.com.
 
-AI Receptionist: Got it. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. We're looking forward to seeing you on Saturday!
+AI Receptionist: Great, Robert. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions or want to make changes, feel free to reach out.
 
-Customer: Awesome, thanks so much, Rachel. Can't wait!
+Customer: Thanks, Charlotte. I appreciate the help.
 
-AI Receptionist: You're welcome, Michael. Have a great day, and see you soon at Luxe Hair Studio!
+AI Receptionist: You're welcome, Robert! We look forward to seeing you at Luxe Hair Studio. Have a great day!
 
-Customer: Thanks, you too! Bye!
-
-AI Receptionist: Bye!
+Customer: Thanks, you too!

@@ -1,23 +1,23 @@
-AI Receptionist: Hi, this is Bright Smile Dental. I am Rachel, Bright Smile Dental AI receptionist. How can I help you today?
+AI Receptionist: Hi, this is Bright Smile Dental. I am Charlotte, Bright Smile Dental AI receptionist. How can I help you today?
 
-Customer: Hi, I'm Robert Johnson. Uh, I've been thinking about coming in for a teeth cleaning... but, um, I'm a bit worried. Is it, like, painful?
+Customer: Hi, I'm James Martinez. Uh, I've been noticing some sensitivity in my teeth, especially when I have cold drinks, and I'm thinking maybe a cleaning might help. Is it, um, painful to get that done?
 
-AI Receptionist: Oh, hi Robert! Thanks for reaching out. I totally understand your concern. So, a teeth cleaning is usually quite comfortable. Some people might feel a bit of sensitivity during the process, but our team is really good at making sure you're as comfy as possible. We can always discuss options to help ease any discomfort you might feel.
+AI Receptionist: Hi James! Sensitivity can be uncomfortable, I understand. Our cleanings are quite gentle, and most patients find the procedure to be, you know, quite comfortable. It might even help with the sensitivity you're experiencing. Would you like to schedule an appointment for a cleaning?
 
-Customer: Okay, that sounds good. Uh, do you have any openings soon?
+Customer: Yeah, that sounds good. Can we book something for next week, maybe?
 
-AI Receptionist: Absolutely, let me check our schedule for you. Could you please confirm your first name, phone number, and email so I can book the appointment?
+AI Receptionist: Absolutely! Let me set that up for you. I'll just need to get a few details to confirm the appointment. Could you please provide your phone number?
 
-Customer: Sure, it's Robert. My phone number is, uh, 555-0123, and my email is robert.johnson@email.com.
+Customer: Sure, it's 555-0123.
 
-AI Receptionist: Great, Robert. Thanks for that. I’ve found an available slot for you... let's see... We have an opening this Thursday at 2 PM. Does that work for you?
+AI Receptionist: Great, thanks! And what's your email address, James?
 
-Customer: Yeah, Thursday at 2 PM works perfectly.
+Customer: It's james.martinez@email.com.
 
-AI Receptionist: Perfect! Your appointment is all set for Thursday at 2 PM. Thank you for the information. I have also messaged and emailed you the details. If you have any more questions or need to change anything, just let us know.
+AI Receptionist: Perfect, thank you. I've scheduled your cleaning for next week. You'll receive a message and an email with all the details shortly.
 
-Customer: Awesome, thank you so much, Rachel.
+Customer: Awesome, thanks so much for your help, Charlotte.
 
-AI Receptionist: You're welcome, Robert! We look forward to seeing you soon. Have a great day!
+AI Receptionist: You're welcome, James! Looking forward to seeing you soon at Bright Smile Dental. Have a great day!
 
-Customer: You too, bye!
+Customer: Thanks, you too! Bye.

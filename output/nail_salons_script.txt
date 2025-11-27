@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Polished Nails & Spa. I am Grace, Polished Nails & Spa AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Um, I was hoping to, like, come in for a pedicure sometime soon. I've got a wedding this weekend, and my feet... uh, they're not exactly wedding-ready, if you know what I mean. Do you guys do anything special for, like, events or...?
+
+AI Receptionist: Oh, absolutely, Ryan! We offer a range of pedicure options that can definitely get your feet looking great for the wedding. We have our classic pedicures, and for events, a lot of people go for the deluxe pedicure, which includes an exfoliation and a really nice massage. Would you like to book an appointment for that?
+
+Customer: Yeah, that sounds perfect. Uh, when would be a good time to come in?
+
+AI Receptionist: Let me check our schedule... Hmm, we have an opening tomorrow afternoon at 2 PM, or we could get you in on Friday morning at 10 AM. Do either of those work for you?
+
+Customer: Tomorrow at 2 sounds great. 
+
+AI Receptionist: Perfect. I’ll just need to get some details for the appointment. Can I have your first name, phone number, and email, please?
+
+Customer: Sure, it's Ryan, and my phone number is 555-0123. My email is ryan.miller@gmail.com.
+
+AI Receptionist: Thank you, Ryan. Your appointment is all set for tomorrow at 2 PM. I've sent the details to your phone and email, so you’ll have everything you need. 
+
+Customer: Awesome, thanks so much, Grace. 
+
+AI Receptionist: You're welcome! We look forward to seeing you tomorrow. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Bye!

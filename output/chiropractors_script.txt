@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Align Chiropractic Care. I am Dorothy, the Align Chiropractic Care AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. Uh, I've been having some lower back pain for a while now, and... I was wondering if, like, getting an adjustment or something would help with that?
+
+AI Receptionist: Oh, I'm sorry to hear about your back pain, Robert. Adjustments can definitely help with lower back issues by realigning the spine, which can relieve pressure and improve mobility. Many of our patients find significant relief after just a few sessions.
+
+Customer: That sounds promising. Uh, do you have any openings this week? 
+
+AI Receptionist: Let me check quickly... Yes, we have a few appointments available this week. Could you please provide your first name, phone number, and email so I can book you in?
+
+Customer: Sure, it's Robert. My phone number is 555-0123, and my email is robert.johnson@example.com.
+
+AI Receptionist: Great, thank you, Robert. I've scheduled you for an appointment and sent the details to your phone and email. 
+
+Customer: Awesome, thanks so much, Dorothy.
+
+AI Receptionist: You're welcome, Robert. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. We look forward to helping you feel better soon!
+
+Customer: Perfect. See you then!
+
+AI Receptionist: Take care, Robert. Goodbye!

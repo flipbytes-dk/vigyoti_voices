@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Serenity Spa & Wellness. I am Grace, Serenity Spa & Wellness AI receptionist. How can I help you today?
+
+Customer: Hi, uh, I’m Michael Chen. I, uh, have been dealing with some, like, pretty tense shoulders and neck lately. I was wondering if, um, a deep tissue massage might help with that? And, uh, how long would it take?
+
+AI Receptionist: Oh, sure, Michael. A deep tissue massage is actually great for relieving tension in your muscles, especially in the shoulders and neck area. It usually lasts about 60 to 90 minutes, depending on what you prefer. Would you like to schedule an appointment for that?
+
+Customer: Yeah, that sounds perfect. Um, do you have anything available this weekend?
+
+AI Receptionist: Let me check for you... Okay, we do have a few slots open on Saturday and Sunday. What day and time work best for you?
+
+Customer: Uh, Saturday would be best. Maybe in the morning?
+
+AI Receptionist: We have a 10 AM and an 11:30 AM available on Saturday. Which one would you like?
+
+Customer: Hmm, let’s go with 10 AM.
+
+AI Receptionist: Great, I’ll book you for a deep tissue massage at 10 AM this Saturday. Can I get your phone number and email to confirm the appointment?
+
+Customer: Sure, my phone number is 555-0123, and my email is mchen@gmail.com.
+
+AI Receptionist: Perfect, thank you for the information. Your appointment is booked, and I’ve also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: No, that’s it. Thanks, Grace!
+
+AI Receptionist: You’re welcome, Michael! We look forward to seeing you on Saturday. Have a great day!

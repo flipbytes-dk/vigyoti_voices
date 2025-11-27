@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Mindful Counseling Center. I am Dorothy, Mindful Counseling Center AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. Uh, I've been feeling really stressed out lately, you know, with work and everything. I was wondering if individual therapy could help with that? And, um, how soon could I, like, get an appointment?
+
+AI Receptionist: Absolutely, Michael. Individual therapy can be really beneficial in managing stress and helping you find effective coping strategies. We have a team of experienced therapists who can guide you through this. As for appointments, we do have some availability this week. Would you like me to help you set one up?
+
+Customer: Yeah, that sounds great. How about Friday? I have a bit more flexibility then.
+
+AI Receptionist: Sure, let me just check... Okay, we have an opening on Friday afternoon. Could you please provide your first name, phone number, and email so I can confirm the appointment for you?
+
+Customer: Sure, it's Michael, and my phone number is 555-0123. My email is michael.chen@example.com.
+
+AI Receptionist: Thank you for the information, Michael. Your appointment is booked for Friday afternoon, and I've also sent you a confirmation message and email with all the details. 
+
+Customer: Awesome, thank you so much, Dorothy.
+
+AI Receptionist: You're very welcome, Michael. If you have any other questions, feel free to reach out. Have a great day!
+
+Customer: You too, thanks. Bye!
+
+AI Receptionist: Goodbye!

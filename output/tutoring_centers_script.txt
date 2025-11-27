@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is BrightMinds Tutoring. I am Elli, BrightMinds Tutoring AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. I was, uh, wondering about your test prep services. My son is taking the SAT soon and we're looking at options to help boost his score. Do you guys offer group sessions or is it more one-on-one?
+
+AI Receptionist: Great question, Robert! We actually offer both group sessions and one-on-one tutoring for SAT prep. Our tutors work on strategies and practice tests to help improve scores in critical areas. Is there a particular option you’re leaning towards?
+
+Customer: Hmm, I think one-on-one might be best for him. He gets distracted easily in groups. Could we, uh, set up a session to get started?
+
+AI Receptionist: Absolutely, we can arrange that. Could I grab your son’s first name, your phone number, and an email address to send over all the appointment details?
+
+Customer: Sure, his name is Alex Johnson. My phone number is 555-0123, and you can email me at robert.johnson@email.com.
+
+AI Receptionist: Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any more questions, feel free to reach out. 
+
+Customer: Awesome, thanks so much!
+
+AI Receptionist: You’re welcome, Robert! Have a great day and we look forward to helping Alex boost his SAT score!
+
+Customer: Thanks, Elli, take care!
+
+AI Receptionist: Take care! Bye!

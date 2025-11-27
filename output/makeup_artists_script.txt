@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Premier Makeup Artist Services. I am Dorothy, Premier Makeup Artist Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. Um, I was actually wondering about your bridal makeup services. My fiancé's getting married soon, and she's a bit worried about, like, finding the right look. Could you tell me a little more about what you guys offer?
+
+AI Receptionist: Absolutely, Daniel! We have specialized bridal makeup artists who focus on customizing looks to fit, um, your fiancé’s style and preferences. We offer consultations where she can discuss her ideas and even do a trial run to see how everything looks. Does that sound like something she’d be interested in?
+
+Customer: Yeah, that sounds great. Uh, she’d probably want to do a consultation first. How do we go about setting something like that up?
+
+AI Receptionist: Great choice! I can help you book an appointment for a consultation. I just need her first name, a phone number, and an email to send over the details. Would you like to provide that information, or should she call us directly?
+
+Customer: Oh, I can give you her info. Her name's Emily. The phone number is 555-6789, and her email is emily.garcia@mail.com.
+
+AI Receptionist: Perfect, thank you. I've got all that noted down. I'll go ahead and book the consultation for her. And, um, you should expect an email and a message with all the appointment details shortly.
+
+Customer: Awesome, thanks a lot for your help, Dorothy. This is really helpful.
+
+AI Receptionist: You're very welcome, Daniel! Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you need anything else, feel free to reach out. Have a great day!
+
+Customer: Thanks, you too! Bye.
+
+AI Receptionist: Bye!

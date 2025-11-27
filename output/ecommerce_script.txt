@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is City Ecommerce Services. I am Freya, City Ecommerce Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. Um, I've been having some issues with setting up an online store... like, I'm really not sure about integrating payment systems. I was wondering if your team could help with that?
+
+AI Receptionist: Oh, absolutely, Robert. We have specialized services for setting up and optimizing ecommerce platforms, including payment system integrations. Our experts can definitely assist you with that.
+
+Customer: Great, that's a relief. Uh... do you offer consultations to, you know, go over everything in detail?
+
+AI Receptionist: Yes, we do. We can schedule a consultation with one of our specialists to discuss your needs and make sure you're all set up smoothly. Would you like to book an appointment for that?
+
+Customer: Yeah, that sounds perfect.
+
+AI Receptionist: Alright, can I have your first name, phone number, and email address to schedule the appointment?
+
+Customer: Sure, it’s Robert. My phone number is 555-0123, and my email is robert.j@domain.com.
+
+AI Receptionist: Thank you for the information, Robert. Your appointment is booked, and I have also messaged and emailed you the details. If you need anything else before the consultation, feel free to reach out.
+
+Customer: Thanks, Freya, I appreciate it.
+
+AI Receptionist: You're welcome, Robert. Have a great day, and we'll talk soon!
+
+Customer: You too, bye!

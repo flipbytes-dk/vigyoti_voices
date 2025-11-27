@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Premier Managed Services Providers. I am Matilda, Premier Managed Services Providers AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Uh, I've been having some issues with, like, our company's network security... it's been acting up, and I wanted to know if your managed services providers can help with that. Also, do you guys offer consultations to go over what might be needed?
+
+AI Receptionist: Absolutely, Ryan! We specialize in network security and can definitely help you out with that. We offer detailed consultations where we can assess your current setup and recommend the best solutions to enhance your security. Would you like to go ahead and book an appointment for a consultation?
+
+Customer: Yeah, that sounds great. What info do you need from me?
+
+AI Receptionist: Perfect! Could I get your first name, phone number, and email to set up the appointment?
+
+Customer: Sure, it's Ryan. My phone number is 555-0123, and my email is ryan.miller@example.com.
+
+AI Receptionist: Thank you for that information. Your appointment is booked, and I have also messaged and emailed you the details.
+
+Customer: Great, thanks a lot, Matilda.
+
+AI Receptionist: You're welcome, Ryan. If you have any more questions, feel free to reach out. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is FitLife Fitness Center. I am Charlotte, FitLife Fitness Center AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. I've been thinking about joining a gym to get back into shape, but... um, I'm not really sure where to start. Do you guys offer like, you know, any introductory programs or something?
+
+AI Receptionist: Absolutely, John! We have a variety of options to help you get started. We offer a free one-week trial membership so you can get a feel for our facilities. Plus, we have an introductory personal training session where a trainer can assess your fitness level and help you set up a personalized workout plan. Does that sound like something you’d be interested in?
+
+Customer: Yeah, that sounds great. Uh, how do I go about setting that up?
+
+AI Receptionist: I can help you with that right now. Let's book an appointment for your first visit and the personal training session. Could you please provide me with your first name, phone number, and email address?
+
+Customer: Sure, it's John, and my phone number is 555-0123. My email is john.williams@email.com.
+
+AI Receptionist: Thank you for the information, John. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Awesome, thanks so much for your help, Charlotte!
+
+AI Receptionist: You're welcome, John! We look forward to seeing you at FitLife Fitness Center. Have a great day!
+
+Customer: You too! Bye.
+
+AI Receptionist: Goodbye!

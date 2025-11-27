@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Premier Home Inspector Services. I am Lily, Premier Home Inspector Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. Um, I’m calling because I’m buying a new house and I’m, like, a little unsure about the inspection process. Do you guys, uh, provide detailed inspections before closing?
+
+AI Receptionist: Absolutely, Daniel. We offer comprehensive home inspections that cover everything from the foundation to the roof. Our inspectors will provide a detailed report that can help you make informed decisions before closing. Would you like to schedule an appointment for an inspection?
+
+Customer: Yeah, that sounds great. What info do you need from me?
+
+AI Receptionist: I’ll just need a few details to set up the appointment. Can I have your first name, phone number, and email address, please?
+
+Customer: Sure, it's Daniel, and you already have my phone number since I'm calling from it. But my email is danielg123@example.com.
+
+AI Receptionist: Perfect, thank you for that. I’ve got you down for an inspection. I’ll send you a message and an email with all the appointment details, so you have everything handy.
+
+Customer: Awesome, thanks so much for the help!
+
+AI Receptionist: You’re welcome, Daniel. Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out. Have a great day!
+
+Customer: Thanks, you too!

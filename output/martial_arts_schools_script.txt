@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Dragon Martial Arts Academy. I am Gigi, Dragon Martial Arts Academy AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. Uh, I've been thinking about starting some, like, self-defense classes 'cause, you know, I just want to feel a bit more secure. Um, do you guys offer beginner classes for adults?
+
+AI Receptionist: Absolutely, David! We offer a variety of self-defense classes for all levels, including beginners. Our instructors are really great at making sure everyone feels comfortable no matter their experience level. Is there a particular time or day you were thinking about starting?
+
+Customer: Oh, that's good to hear. Uh, evenings would be best for me, like maybe after work around six or seven?
+
+AI Receptionist: Sure, we have classes in the evening that would fit your schedule. I can book you a spot in one of our beginner sessions. Let me just get some details from you. What's the best phone number to reach you at?
+
+Customer: Yeah, it's 555-0123.
+
+AI Receptionist: Great, and do you have an email address where we can send you the class details and a reminder?
+
+Customer: Sure, it's david.thompson@example.com.
+
+AI Receptionist: Perfect, David. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions, feel free to give us a call.
+
+Customer: Awesome, thanks so much, Gigi. Looking forward to it!
+
+AI Receptionist: You're welcome! We look forward to seeing you in class. Have a great day!
+
+Customer: You too, bye!

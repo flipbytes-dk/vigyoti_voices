@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is City Staffing Agencie Services. I'm Dorothy, City Staffing Agencie Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Christopher Lee. I'm actually looking to find a temporary administrative assistant for my small business... and I was wondering, uh, how quickly you guys can usually fill a position like that?
+
+AI Receptionist: Oh, sure! We can definitely help with that. We have a dedicated team that specializes in administrative staffing, and, um, typically, once we understand your specific needs, we can provide a shortlist of candidates within a few days. It really depends on the exact skills you're looking for... but we're pretty efficient.
+
+Customer: That sounds great. Do I need to set up a consultation or something to get started?
+
+AI Receptionist: Yes, a consultation is a good starting point. It helps us to, uh, better understand your needs and match you with the right candidates. Would you like me to book an appointment for you?
+
+Customer: Yeah, that would be perfect. 
+
+AI Receptionist: Great! Could I have your first name, phone number, and email to set that up?
+
+Customer: Sure thing. It's Christopher, phone number is 555-0123, and my email is christopher.lee@email.com.
+
+AI Receptionist: Perfect, thank you, Christopher. Your appointment is booked, and I've also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much for your help, Dorothy.
+
+AI Receptionist: You're welcome! If you have any more questions, feel free to reach out. Have a great day!
+
+Customer: Will do, thanks again. Bye!
+
+AI Receptionist: Bye!

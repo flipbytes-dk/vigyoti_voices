@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is SecureLife Insurance. I am Bella, SecureLife Insurance AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. Uh, I'm looking into getting a life insurance policy and I, um, wanted to know what kind of options you guys offer. Also, like, do you have any advice on choosing the right one?
+
+AI Receptionist: Absolutely, Robert. We offer a range of life insurance options, including term life, whole life, and universal life policies. Each type has its own benefits depending on your needs and budget. Generally, term life is more affordable but has a set duration, while whole life offers coverage for your entire life with an investment component. 
+
+AI Receptionist: We can definitely help you figure out what's best for your specific situation. Would you like to set up a time to chat with one of our experienced brokers?
+
+Customer: Yeah, that sounds great. I think talking to someone would really help clear things up.
+
+AI Receptionist: Perfect! Could I get your first name, phone number, and email address to set that up for you?
+
+Customer: Sure, it’s Robert... and, uh, my phone number is 555-0123. My email is r.johnson@example.com.
+
+AI Receptionist: Thank you, Robert. Your appointment is all set. I've also sent you a message and an email with the details. Our broker will walk you through everything you need to know.
+
+Customer: Awesome, thanks, Bella!
+
+AI Receptionist: You're welcome, Robert. We look forward to helping you. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Bye!

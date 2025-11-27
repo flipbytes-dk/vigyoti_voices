@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Pampered Paws Grooming. I am Bella, Pampered Paws Grooming AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. I was wondering about, um, getting my dog, Max, in for a haircut. He's a bit, uh, anxious, and I want to make sure it's a, you know, gentle experience for him. Do you have any, like, special services for nervous pets?
+
+AI Receptionist: Absolutely, David. We understand pets can be a little nervous during grooming. We actually offer a calming spa treatment that includes aromatherapy and gentle handling to help ease anxiety. Would you like to book an appointment for Max?
+
+Customer: Oh, that sounds perfect! Uh, yeah, I’d love to book an appointment. What do I need to do?
+
+AI Receptionist: Great! I'll just need to confirm a few details to secure your appointment. Could you please provide your phone number and email address?
+
+Customer: Sure, my phone number is 555-0123, and my email is david.thompson@email.com.
+
+AI Receptionist: Thank you, David. Your appointment is booked, and I’ve also messaged and emailed you the details. If you have any more questions or need to reschedule, feel free to contact us.
+
+Customer: Perfect. Thanks a lot, Bella. I appreciate it.
+
+AI Receptionist: You’re welcome, David! We’re looking forward to pampering Max. Have a great day!
+
+Customer: You too, bye!

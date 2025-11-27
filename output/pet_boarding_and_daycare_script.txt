@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Total Pet Boarding and Daycare Services. I am Freya, Total Pet Boarding and Daycare Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. I was just wondering about your daycare services. My dog, Max, has been a bit anxious lately, and I'm hoping some socialization might help. Do you guys accommodate dogs with, like, anxiety issues?
+
+AI Receptionist: Oh, for sure, James. We actually have a lot of experience with dogs that need a little extra care in social settings. Our staff is trained to help pets feel comfortable and safe. We can definitely work with Max to help ease his anxiety while he's with us.
+
+Customer: That sounds great. Um, how do I go about getting him started? Like, do I need to make an appointment or something?
+
+AI Receptionist: Yes, the first step would be to schedule a consultation where we can learn more about Max and his needs. We’ll also give you a tour of our facilities. I can help you set that up right now if you’d like.
+
+Customer: Yeah, that'd be perfect. 
+
+AI Receptionist: Great! May I have your first name, phone number, and email to book the appointment?
+
+Customer: Sure, it’s James... and my phone number is 555-0123. My email is james.martinez@example.com.
+
+AI Receptionist: Thank you, James. Your appointment is booked, and I've also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much, Freya. I appreciate the help.
+
+AI Receptionist: You're welcome! We’re excited to meet Max. If you have any more questions, feel free to reach out. Have a great day!
+
+Customer: Thanks, you too! Bye.
+
+AI Receptionist: Goodbye!

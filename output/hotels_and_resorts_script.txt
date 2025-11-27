@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Quality Hotels and Resort Services. I am Rachel, Quality Hotels and Resort Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Matthew Anderson. Uh, I was hoping to get some information about, um, your resort packages. I'm planning a trip and was wondering if you have, like, packages that include both accommodation and, uh, activities?
+
+AI Receptionist: Absolutely, Matthew! We do offer a variety of resort packages that include both accommodation and activities. Whether you're interested in, um, relaxing spa treatments or maybe some adventurous outdoor activities, there's, like, something for everyone. Is there a specific type of activity you're interested in?
+
+Customer: Yeah, uh, I'm really into, like, hiking and, um, maybe some water sports. Do you have packages that include those?
+
+AI Receptionist: We definitely do! We have a few packages that combine hiking trails with water sports like kayaking or paddleboarding. It's a great way to, uh, really explore everything the resort and its surroundings have to offer. Would you like me to help you book a consultation to discuss these options in detail?
+
+Customer: Yeah, that sounds perfect. 
+
+AI Receptionist: Great! Could I get your first name, phone number, and email address, please?
+
+Customer: Sure, it's Matthew... Anderson. My phone number is 555-0123, and my email is matthew.anderson@email.com.
+
+AI Receptionist: Thank you, Matthew. Your consultation is booked, and I've also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: Nope, that's it. Thanks so much, Rachel!
+
+AI Receptionist: You're welcome! Have a great day, and we look forward to helping you plan your trip. Goodbye!
+
+Customer: Bye!

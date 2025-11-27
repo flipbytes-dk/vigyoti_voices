@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Expert Schools Academy. I am Bella, Expert Schools Academy AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. I was browsing through your website, and I'm really interested in the specialized tutoring services you offer. I have a high schooler who's, uh, struggling a bit with math. Do you have tutors who, like, specialize in that?
+
+AI Receptionist: Absolutely, James! We have a team of skilled tutors who specialize in math at various levels, including high school. They can provide personalized support to help your child improve their understanding and performance in math. Would you like to schedule a consultation to discuss your needs in more detail?
+
+Customer: That sounds great. Yeah, a consultation would be really helpful. How do I go about setting that up?
+
+AI Receptionist: Okay, perfect. I can schedule that for you. Could I get your first name, your phone number, and an email address to send you the appointment details?
+
+Customer: Sure thing. It's James, and my phone number is 555-0123. My email is james.martinez@email.com.
+
+AI Receptionist: Thank you, James. Your consultation is booked, and I've also sent you the details via text and email. Is there anything else you'd like to know?
+
+Customer: No, I think that covers it for now. Thanks a lot, Bella!
+
+AI Receptionist: You're welcome, James! Thank you for reaching out. We look forward to helping your child with math. Have a great day!
+
+Customer: You too, bye!

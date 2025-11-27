@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Advanced Pet Supply Stores Shop. I am Lily, Advanced Pet Supply Stores Shop AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. Uh, so I've got a young golden retriever and I'm thinking about switching his food to something that's, you know, more specific to his breed. Do you guys offer consultations for that?
+
+AI Receptionist: Oh, yes, absolutely! We offer consultations to help choose the best nutrition plan for your pet, tailored to their specific needs. Our experts can guide you on what would be suitable for your golden retriever to ensure he gets all the necessary nutrients.
+
+Customer: Great, that sounds perfect. Do I need to make an appointment for the consultation?
+
+AI Receptionist: Yes, it would be best to book an appointment so we can give you dedicated time with one of our specialists. Could I get your first name, phone number, and email to set that up?
+
+Customer: Sure, it's David, and my phone number is 555-0123. My email is david.thompson@email.com.
+
+AI Receptionist: Thank you, David. Your appointment is booked, and I've also sent you the details via text and email. Is there anything else I can help you with today?
+
+Customer: No, that's all I needed. Thanks a lot!
+
+AI Receptionist: You're welcome! Have a great day, and we look forward to helping you and your retriever soon.
+
+Customer: Thanks, Lily. Bye!
+
+AI Receptionist: Bye!

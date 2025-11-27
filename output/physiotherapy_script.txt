@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Quality Physiotherapy Clinic. I am Dorothy, Quality Physiotherapy Clinic AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. Uh, I've been having some, like, you know, lower back pain for a couple of weeks now. I was wondering if your clinic could help with that... and, um, do you guys offer any specific treatments for it?
+
+AI Receptionist: Oh, I'm sorry to hear about your back pain, James. Yes, we definitely can help with that. Our physiotherapists specialize in assessing and treating back pain and can tailor a treatment plan specifically for your needs. We offer a range of therapies like manual therapy, exercise programs, and more.
+
+Customer: That sounds great. Uh, I think I'd like to come in and see what you guys can do for me.
+
+AI Receptionist: Absolutely, I can help you arrange an appointment. Could I get your first name, phone number, and email so we can get you booked in?
+
+Customer: Sure, it's James, uh, Martinez. My phone number is 555-0123, and my email is james.martinez@email.com.
+
+AI Receptionist: Perfect, thanks for that. I've scheduled an appointment for you, and you'll also receive a confirmation with all the details via text and email.
+
+Customer: Awesome, thanks so much, Dorothy.
+
+AI Receptionist: You're welcome, James. Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details. We look forward to helping you feel better soon.
+
+Customer: Great, looking forward to it. Thanks again!
+
+AI Receptionist: Take care, James. Bye for now!

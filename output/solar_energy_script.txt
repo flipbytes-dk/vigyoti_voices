@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Elite Solar Energy Services. I am Gigi, Elite Solar Energy Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Uh, I've been looking into solar panels for my home, and I was wondering... how exactly does the whole installation process work? And, um, is there any maintenance involved after they're installed?
+
+AI Receptionist: Great questions, Ryan! So, first, we would start with a consultation to assess your energy needs and the best setup for your home. Once we finalize the design, our team handles the entire installation process, which usually takes a couple of days. As for maintenance, solar panels are pretty low-maintenance, but we do recommend annual check-ups just to ensure everything's running smoothly. Does that help?
+
+Customer: Yeah, that sounds good. I think setting up a consultation would be the next step, right?
+
+AI Receptionist: Absolutely! I can help you schedule that. Could I get your first name, please?
+
+Customer: Sure, it's Ryan.
+
+AI Receptionist: Thanks, Ryan. And could you give me your phone number?
+
+Customer: Yeah, it's 555-0123.
+
+AI Receptionist: Great. Lastly, I'll need your email address to send over the appointment details.
+
+Customer: Sure, it's ryan.miller@example.com.
+
+AI Receptionist: Perfect, thank you for the information. Your appointment is booked, and I’ve also messaged and emailed you the details. Is there anything else I can help you with?
+
+Customer: Nope, that's all for now. Thanks, Gigi!
+
+AI Receptionist: You're welcome, Ryan. Have a great day, and we look forward to helping you with your solar energy needs!

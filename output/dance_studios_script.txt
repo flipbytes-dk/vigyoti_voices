@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Rhythm Dance Academy. I am Bella, Rhythm Dance Academy AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. Uh, I was calling because I'm interested in signing up for, like, a hip-hop class, but I'm kinda new to dancing. Do you offer beginner classes?
+
+AI Receptionist: Oh, absolutely, David! We have a great beginner hip-hop class that's perfect for newcomers. It focuses on basic moves and building confidence. Would you like me to help you book a spot in one of the classes?
+
+Customer: Yeah, that sounds great. Um, can we set something up for the weekend, maybe?
+
+AI Receptionist: Sure thing! We have classes available on Saturdays and Sundays. Could you let me know which day works better for you?
+
+Customer: Uh, let’s go with Saturday. 
+
+AI Receptionist: Perfect! I can book you in for this Saturday. Could I get your first name, phone number, and email to complete the booking?
+
+Customer: Sure, it’s David Thompson. My phone number is 555-0123, and the email is david.thompson@email.com.
+
+AI Receptionist: Thank you for the information, David. Your appointment is booked and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Awesome, thanks a lot, Bella. I’m looking forward to it!
+
+AI Receptionist: You’re welcome! We’re excited to have you join us. Have a great day!
+
+Customer: You too, bye!

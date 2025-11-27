@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Total Flooring Installer Services. I am Matilda, Total Flooring Installer Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. I recently moved into a new house, and I'm thinking about getting hardwood floors put in the living room. I wanted to know, um, if you guys do consultations to help choose the right type of flooring?
+
+AI Receptionist: Absolutely, Michael! We offer consultations to help you decide on the best type of hardwood for your space and lifestyle. Our flooring experts can guide you through different options, like oak, maple, or walnut, and explain the pros and cons of each. Would you like to schedule a consultation appointment?
+
+Customer: Yes, that would be great. I think I need a bit more guidance on this.
+
+AI Receptionist: Perfect! Could I get your first name, phone number, and email address to set up the appointment?
+
+Customer: Sure, it's Michael Chen. My phone number is 555-0123, and my email is michael.chen@example.com.
+
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I have also messaged and emailed you the details. We look forward to helping you choose the perfect flooring for your new home.
+
+Customer: Thanks a lot, Matilda. I appreciate the help!
+
+AI Receptionist: You're welcome, Michael. Have a great day, and we'll see you soon!

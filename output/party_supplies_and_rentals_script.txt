@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Quality Party Supplies and Rental Services. I am Bella, Quality Party Supplies and Rental Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. Uh, I'm planning a surprise birthday party for my wife, and I'm kinda overwhelmed with everything I need to organize. Do you offer any consultations, like, to help pull it all together?
+
+AI Receptionist: Oh, absolutely, James! We do offer consultations to help you plan the perfect party. Our team can guide you through everything—from choosing the right supplies to coordinating rentals. Is there anything specific you’re looking for help with?
+
+Customer: Yeah, um, I'm not really sure what decorations or, you know, equipment I'll need. It's an outdoor party, so I guess... tents and tables? 
+
+AI Receptionist: Got it! We can definitely assist with that. During a consultation, we'll discuss your theme, the number of guests, and any specific items you might need, like tents and tables. We can even suggest some new ideas to make the party really special. Would you like to set up an appointment for a consultation?
+
+Customer: That sounds great. Yes, please.
+
+AI Receptionist: Perfect! I’ll just need to get a bit more information from you. Could you provide me with your first name, phone number, and email?
+
+Customer: Sure, it's James, and my phone number is 555-0123. My email is james.martinez@email.com.
+
+AI Receptionist: Thank you, James. Your appointment is all set, and I’ve also sent the details to your email and phone. If you have any questions before then, feel free to reach out.
+
+Customer: Awesome, thank you so much for your help!
+
+AI Receptionist: You’re welcome, James! Looking forward to helping you make your wife's birthday unforgettable. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

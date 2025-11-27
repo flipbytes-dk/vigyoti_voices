@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Total Cybersecurity Services. I am Grace, Total Cybersecurity Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. Uh, I've been having some issues with phishing emails... they're just slipping through our filters at work. I was wondering if you guys offer something to help prevent that. 
+
+AI Receptionist: Oh, I see. Yes, we do provide solutions for that. Phishing emails can be tricky, but we have advanced filtering tools and employee training programs that can really help reduce the risk. Would you like to schedule a consultation to discuss the options?
+
+Customer: Yeah, that sounds great. Uh, how soon can I get an appointment?
+
+AI Receptionist: Let's see... I can set up an appointment for you as early as tomorrow. Could I have your first name, phone number, and email to book it?
+
+Customer: Sure, it's David. My phone number is 555-0123, and my email is david.thompson@email.com.
+
+AI Receptionist: Thank you, David. Your appointment is booked and I have also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much!
+
+AI Receptionist: You're welcome! If you have any other questions, feel free to reach out. Have a great day!
+
+Customer: You too, thanks again. Bye.
+
+AI Receptionist: Goodbye!

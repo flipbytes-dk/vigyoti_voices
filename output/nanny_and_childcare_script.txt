@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is City Nanny and Childcare Services. I am Matilda, City Nanny and Childcare Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. Uh, I’ve been thinking about hiring a nanny for my two kids and... I’m just wondering, do you guys offer any kind of, like, consultation service to help figure out what, um, might be the right fit for us?
+
+AI Receptionist: Absolutely, James. We do offer consultations where you can discuss your family’s needs and preferences, and we can help match you with the right nanny. Our team can provide you with profiles and set up interviews, too.
+
+Customer: Oh, that sounds perfect! Do I need to book an appointment for that, or...?
+
+AI Receptionist: Yes, you would need to book a consultation appointment. I can help you set that up right now. Could I get your first name, phone number, and email address, please?
+
+Customer: Sure! Uh, first name's James, phone number is 555-0123, and my email is james.martinez@example.com.
+
+AI Receptionist: Great, thanks for that information, James. Your appointment is all set, and I’ve also sent the details to your phone and email. 
+
+Customer: Awesome. Thanks so much, Matilda.
+
+AI Receptionist: You're welcome! If you have any more questions, feel free to reach out. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

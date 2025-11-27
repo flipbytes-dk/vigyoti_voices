@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Forever Events Planning. I am Lily, Forever Events Planning AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Christopher Lee. Uh, I'm planning my wedding for next summer and, um, I'm feeling a bit overwhelmed with all the details... you know, with vendors and themes and everything. Do you guys handle, like, the whole process or just parts of it?
+
+AI Receptionist: Absolutely, Christopher! We offer a range of services, from full planning where we handle everything from start to finish, to just day-of coordination if you need someone to oversee the details on your big day. We also help with vendor management and design. It really depends on what level of support you're looking for.
+
+Customer: Oh, okay, that's great to know. I think I'm leaning towards full planning. Could I, like, talk to someone about how it all works?
+
+AI Receptionist: Definitely! I can set up an appointment for you with one of our wedding planners. They can go over all the details and help you figure out the best plan for your wedding. Can I get your first name, phone number, and email to book the appointment?
+
+Customer: Sure, it's Christopher... and my phone number is 555-0123. My email is christopher.lee@email.com.
+
+AI Receptionist: Thank you, Christopher. Your appointment is booked, and I have also messaged and emailed you the details. If you have any questions before the appointment, feel free to reach out.
+
+Customer: Awesome, thanks so much for your help!
+
+AI Receptionist: You're welcome! We're excited to help make your wedding unforgettable. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,31 @@
+AI Receptionist: Hi, this is Advanced Mortgage Broker Services. I am Dorothy, Advanced Mortgage Broker Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. Um, I've been thinking about refinancing my home and I'm just… not sure where to start. Can you, like, tell me if that's something you guys can help with?
+
+AI Receptionist: Absolutely, Daniel. Refinancing is, like, one of the specialized services we offer here. Our brokers can help guide you through the entire process, you know, from evaluating your current mortgage to finding the best new terms.
+
+Customer: Oh, that's great to hear. I was also wondering, like, is there a charge for the initial consultation?
+
+AI Receptionist: No worries, the first consultation is completely free. It’s, um, a great opportunity to discuss your needs and see what options are available without any pressure.
+
+Customer: Awesome, that sounds perfect. How do I go about setting up an appointment?
+
+AI Receptionist: I can help you with that right now. Can I get your first name again, please?
+
+Customer: Sure, it's Daniel.
+
+AI Receptionist: Thanks, Daniel. And what's the best phone number to reach you at?
+
+Customer: Uh, it's 555-0123.
+
+AI Receptionist: Great, and do you have an email address we can use to send you the appointment details?
+
+Customer: Yeah, it’s daniel.garcia@gmail.com.
+
+AI Receptionist: Thank you for the information. Your appointment is booked, and I’ve also messaged and emailed you the details. Is there anything else you’d like to know?
+
+Customer: No, that's all. Thanks so much for your help, Dorothy.
+
+AI Receptionist: You’re welcome, Daniel. We look forward to helping you with your refinancing. Have a great day!
+
+Customer: You too, bye!

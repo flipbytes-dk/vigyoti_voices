@@ -1,0 +1,27 @@
+AI Receptionist: Hi, this is ProFlow Plumbing. I am Matilda, ProFlow Plumbing AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Andrew Davis. Uh, I've been having some trouble with my kitchen sink, like, it's just not draining properly. Seems like it's, uh, clogged or something. Can you guys help with that?
+
+AI Receptionist: Oh, absolutely, Andrew. We handle drain cleaning services all the time. It sounds like you might have a blockage in the pipes. We can definitely send a technician out to take a look and get that sorted for you.
+
+Customer: That'd be great. Do you, like, have any availability today? It's kinda urgent.
+
+AI Receptionist: Let me just check our schedule... Alright, we do have an opening this afternoon around 3 PM. Would that work for you?
+
+Customer: Yeah, that works. Thanks. 
+
+AI Receptionist: Perfect. Could I get your first name—oh, wait, you've already mentioned it—and your phone number?
+
+Customer: Sure, it's 555-0123.
+
+AI Receptionist: Great, and do you have an email address where we can send a confirmation and any updates?
+
+Customer: Yes, it's andrew.davis@email.com.
+
+AI Receptionist: Got it, Andrew. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If anything comes up, feel free to reach out.
+
+Customer: Awesome, thanks so much, Matilda. I really appreciate it.
+
+AI Receptionist: You're welcome, Andrew. We're looking forward to helping you with your sink. Have a great day!
+
+Customer: Thanks, you too!

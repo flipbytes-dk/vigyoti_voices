@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Elite Medical Clinics. I am Dorothy, Elite Medical Clinics AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. Um, I've been having some, like, recurring headaches lately and I'm wondering if your clinic can help with that. Also, do you guys offer any, like, specialized consultations for this?
+
+AI Receptionist: Hi Daniel, thanks for reaching out. Yes, we do offer specialized consultations that might be just what you need. We have neurologists and general practitioners who can help assess your headaches and, you know, guide you on the best treatment options. Would you like to set up an appointment to come in and discuss this with one of our specialists?
+
+Customer: Yeah, that sounds great. I think I'd like to go ahead and do that.
+
+AI Receptionist: Perfect. I can help you with that. May I have your first name, phone number, and email to get started with booking the appointment?
+
+Customer: Sure, it's Daniel. My phone number is 555-0123, and my email is daniel.garcia@example.com.
+
+AI Receptionist: Great, thanks for that information, Daniel. Your appointment is booked, and I've also sent you a message and an email with all the details. Is there anything else I can assist you with today?
+
+Customer: Nope, that's all. Thanks for your help, Dorothy.
+
+AI Receptionist: You're welcome! Have a great day, Daniel, and we'll see you at your appointment.
+
+Customer: Thanks, you too! Bye.
+
+AI Receptionist: Goodbye!

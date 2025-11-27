@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Premier Vacation Rental Services. I am Freya, Premier Vacation Rental Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm David Thompson. I was actually looking to find out more about your vacation rentals. I'm planning a family trip and, um, I wanted to know if you have any, like, kid-friendly options near the beach.
+
+AI Receptionist: Oh, that sounds wonderful! Yes, we definitely offer a variety of kid-friendly rental properties near the beach. We have everything from cozy cottages to larger homes that can accommodate bigger families. Do you have any specific dates or locations in mind?
+
+Customer: Yeah, we're thinking of late July, and, uh, somewhere on the east coast would be great. Maybe around South Carolina?
+
+AI Receptionist: Perfect, South Carolina has some beautiful beaches for families. I can help you set up a consultation with one of our specialists who can provide more details and help tailor the rental to your needs. Could I get your first name, phone number, and email to book this appointment?
+
+Customer: Sure thing. It's David, and my phone number is 555-0123. My email is davidthompson@email.com.
+
+AI Receptionist: Thank you, David. Your appointment is booked, and I've also messaged and emailed you the details to confirm. If you have any more questions, feel free to get in touch.
+
+Customer: Great, thanks so much, Freya. Appreciate the help!
+
+AI Receptionist: You're welcome, David! Have a fantastic day planning your trip.

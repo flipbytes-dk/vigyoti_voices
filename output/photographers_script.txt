@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Moments Photography Studio. I am Elli, Moments Photography Studio AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Andrew Davis. I'm planning a family reunion, and I was wondering if you guys do event photography... and, uh, how far in advance do I need to book that?
+
+AI Receptionist: Oh, great! Yes, we definitely cover event photography, including family reunions. It's always a good idea to book as soon as you have a date in mind, just to make sure we've got availability. How soon is your event?
+
+Customer: It's, um, in about three months. So... I guess I have some time, but I wanted to get an idea of what you offer.
+
+AI Receptionist: Perfect, that's a good amount of lead time. We offer a range of packages tailored to events like yours, with options for different numbers of hours and, uh, the number of photos you’d like. Would you like to book an appointment to discuss this with one of our photographers?
+
+Customer: Yeah, that sounds good. Do you need any info from me?
+
+AI Receptionist: Yes, please. Can I get your first name, phone number, and email?
+
+Customer: Sure, it's Andrew. My phone number is 555-0123, and my email is andrew.davis@email.com.
+
+AI Receptionist: Thank you, Andrew. Your appointment is booked, and I've also messaged and emailed you the details. Is there anything else you need?
+
+Customer: Nope, that covers it. Thanks a lot, Elli.
+
+AI Receptionist: You're welcome! Have a great day, and we look forward to seeing you soon.

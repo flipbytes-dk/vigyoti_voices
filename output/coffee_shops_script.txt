@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Premier Coffee Shops. I am Gigi, Premier Coffee Shops AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. I was wondering about your coffee consultation services. I've been experimenting with brewing methods at home, but I can't seem to get it right. Um, do you think a consultation might help me improve my skills?
+
+AI Receptionist: Oh, absolutely, Daniel! Our consultations are a great way to get personalized advice on brewing techniques. We can match you with one of our coffee experts who can help refine your process and, you know, give you tips based on your specific setup at home.
+
+Customer: That sounds perfect. How do I go about booking one of these consultations?
+
+AI Receptionist: I can help you with that right now. Could I get your first name, phone number, and email to secure an appointment for you?
+
+Customer: Sure thing. First name is Daniel, phone number is 555-0123, and my email is daniel.garcia@email.com.
+
+AI Receptionist: Great, thank you for the information, Daniel. Your appointment is booked, and I have also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much, Gigi.
+
+AI Receptionist: You're welcome! If you have any more questions, feel free to reach out. Have a great day brewing!
+
+Customer: Will do, thanks again! Bye!
+
+AI Receptionist: Bye!

@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Fix-It-All Handyman. I am Lily, the Fix-It-All Handyman AI receptionist. How can I help you today?
+
+Customer: Hi, uh, I'm James Martinez. So, I have this, um... issue with my kitchen sink. It's been leaking for a couple of days now, and I'm starting to worry it might get worse. Can you guys fix it today, or maybe, like, tomorrow?
+
+AI Receptionist: Oh, I see, James. Leaky sinks can be quite inconvenient. We definitely handle plumbing repairs, including fixing leaks. Let me check our schedule... um, we can actually have someone come out tomorrow to take care of that for you. Does that work?
+
+Customer: Yeah, tomorrow sounds great. What time would they be coming?
+
+AI Receptionist: We can schedule a morning appointment between 9 and 11 AM. Does that time frame suit you?
+
+Customer: Yeah, that works for me. 
+
+AI Receptionist: Perfect. To book the appointment, could I have your first name, phone number, and email, please?
+
+Customer: Sure, it's James, and my phone number is 555-0123. My email is james.martinez@example.com.
+
+AI Receptionist: Thank you, James. Your appointment is all set for tomorrow morning, and I've also messaged and emailed you the details. 
+
+Customer: Great, thanks so much for your help, Lily.
+
+AI Receptionist: You're welcome, James. We're looking forward to helping you fix that sink. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

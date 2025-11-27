@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Elite Pharmacie Services. I am Charlotte, Elite Pharmacie Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I've been feeling a bit under the weather lately... just a bit run-down, you know? I was wondering if your pharmacy offers any kind of wellness consultation, like, to see if there's something I should be taking or doing differently?
+
+AI Receptionist: Absolutely, John! We do offer wellness consultations with our pharmacists. They can review your symptoms and suggest vitamins or supplements that might help boost your energy. Would you like to book an appointment for that?
+
+Customer: Yeah, that sounds great. Uh, how soon could I get in?
+
+AI Receptionist: Let me check for you... We have availability this week. How does Thursday at 2 PM sound? Or, if you prefer, we can look at other times that might suit you better.
+
+Customer: Oh, Thursday at 2 PM works for me. 
+
+AI Receptionist: Perfect! To book the appointment, I'll just need to confirm a few details. Could you provide your first name, phone number, and email?
+
+Customer: Sure, it's John. My phone number is 555-0123, and my email is johnwilliams@gmail.com.
+
+AI Receptionist: Great, I've got that all noted. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much, Charlotte!
+
+AI Receptionist: You're welcome, John. Take care, and we'll see you on Thursday!

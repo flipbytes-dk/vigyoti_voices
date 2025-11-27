@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Gourmet Catering Co. I am Matilda, Gourmet Catering Co AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. I'm planning a corporate event for our company, and I'm looking into catering options. I was wondering... do you guys offer any vegan menu choices?
+
+AI Receptionist: Oh, absolutely, Michael! We have a variety of vegan options available for our events. Our chefs are quite versatile, and we can customize menus to suit dietary preferences, including vegan, gluten-free, and more. Is there a specific date or size for the event you're planning?
+
+Customer: Yeah, so it's for about 50 people, and we're looking at the third Saturday of next month. Can we schedule a tasting or something?
+
+AI Receptionist: That sounds great! We can definitely arrange a tasting session for you. Let me get a few details first. Can I have your full name, phone number, and email address, please?
+
+Customer: Sure, it's Michael Chen... and my number is 555-0123. My email is michael.chen@email.com.
+
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I've also messaged and emailed you the details. If you have any other questions, feel free to reach out anytime.
+
+Customer: Perfect, thanks a lot, Matilda. Looking forward to it!
+
+AI Receptionist: You're welcome, Michael. Have a great day, and we'll see you soon at the tasting!
+
+Customer: You too, bye!

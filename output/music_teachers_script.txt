@@ -1,0 +1,33 @@
+AI Receptionist: Hi, this is Harmony Music Academy. I am Lily, Harmony Music Academy AI receptionist. How can I help you today?
+
+Customer: Hi, uh, I'm Daniel Garcia. I've been thinking about, you know, starting piano lessons, but, um, I'm not sure if I need any prior experience. Do you guys teach absolute beginners?
+
+AI Receptionist: Oh, absolutely, Daniel! We love working with beginners. Our piano instructors are really great at, um, tailoring lessons to each student's level, whether you've never touched a piano before or you can already play a bit. Does that sound like what you're looking for?
+
+Customer: Yeah, that sounds perfect. Also, I was wondering, how long is each lesson typically?
+
+AI Receptionist: Typically, our lessons run for about 30 minutes, but we do offer longer sessions if you think you'd like more time. It all depends on your schedule and learning pace. Would you like to go ahead and book an appointment to get started?
+
+Customer: Yeah, I'd love to. What do you need from me?
+
+AI Receptionist: Great! I'll just need a few details to set that up. Can I have your first name?
+
+Customer: Sure, it's Daniel.
+
+AI Receptionist: Thanks, Daniel. And your phone number, please?
+
+Customer: It's 555-0123.
+
+AI Receptionist: Perfect. Lastly, could I get your email address?
+
+Customer: It's daniel.garcia@email.com.
+
+AI Receptionist: Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out!
+
+Customer: Awesome, thanks so much for your help, Lily.
+
+AI Receptionist: You're welcome, Daniel! We look forward to seeing you at Harmony Music Academy. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Bye!

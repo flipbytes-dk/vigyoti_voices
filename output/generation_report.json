@@ -1,56 +1,51 @@
 {
   "success": [
     {
-      "industry": "Accountants",
-      "audio_file": "output/accountants_ai_receptionist_demo.mp3",
-      "script_file": "output/accountants_script.txt"
+      "industry": "Therapists",
+      "audio_file": "output/therapists_ai_receptionist_demo.mp3",
+      "script_file": "output/therapists_script.txt"
     },
     {
-      "industry": "Alternative Medicine",
-      "audio_file": "output/alternative_medicine_ai_receptionist_demo.mp3",
-      "script_file": "output/alternative_medicine_script.txt"
+      "industry": "Travel Agencies",
+      "audio_file": "output/travel_agencies_ai_receptionist_demo.mp3",
+      "script_file": "output/travel_agencies_script.txt"
     },
     {
-      "industry": "Appliance Repair",
-      "audio_file": "output/appliance_repair_ai_receptionist_demo.mp3",
-      "script_file": "output/appliance_repair_script.txt"
+      "industry": "Trucking Companies",
+      "audio_file": "output/trucking_companies_ai_receptionist_demo.mp3",
+      "script_file": "output/trucking_companies_script.txt"
     },
     {
-      "industry": "Architects",
-      "audio_file": "output/architects_ai_receptionist_demo.mp3",
-      "script_file": "output/architects_script.txt"
+      "industry": "Tutoring Centers",
+      "audio_file": "output/tutoring_centers_ai_receptionist_demo.mp3",
+      "script_file": "output/tutoring_centers_script.txt"
     },
     {
-      "industry": "Bed and Breakfast",
-      "audio_file": "output/bed_and_breakfast_ai_receptionist_demo.mp3",
-      "script_file": "output/bed_and_breakfast_script.txt"
+      "industry": "Vacation Rentals",
+      "audio_file": "output/vacation_rentals_ai_receptionist_demo.mp3",
+      "script_file": "output/vacation_rentals_script.txt"
     },
     {
-      "industry": "Boxing Clubs",
-      "audio_file": "output/boxing_clubs_ai_receptionist_demo.mp3",
-      "script_file": "output/boxing_clubs_script.txt"
+      "industry": "Veterinary Clinics",
+      "audio_file": "output/veterinary_clinics_ai_receptionist_demo.mp3",
+      "script_file": "output/veterinary_clinics_script.txt"
     },
     {
-      "industry": "Car Dealerships",
-      "audio_file": "output/car_dealerships_ai_receptionist_demo.mp3",
-      "script_file": "output/car_dealerships_script.txt"
+      "industry": "Videographers",
+      "audio_file": "output/videographers_ai_receptionist_demo.mp3",
+      "script_file": "output/videographers_script.txt"
     },
     {
-      "industry": "Car Repair Shops",
-      "audio_file": "output/car_repair_shops_ai_receptionist_demo.mp3",
-      "script_file": "output/car_repair_shops_script.txt"
+      "industry": "Wedding Planners",
+      "audio_file": "output/wedding_planners_ai_receptionist_demo.mp3",
+      "script_file": "output/wedding_planners_script.txt"
     },
     {
-      "industry": "Car Wash",
-      "audio_file": "output/car_wash_ai_receptionist_demo.mp3",
-      "script_file": "output/car_wash_script.txt"
-    },
-    {
-      "industry": "Carpenters",
-      "audio_file": "output/carpenters_ai_receptionist_demo.mp3",
-      "script_file": "output/carpenters_script.txt"
+      "industry": "Yoga Studios",
+      "audio_file": "output/yoga_studios_ai_receptionist_demo.mp3",
+      "script_file": "output/yoga_studios_script.txt"
     }
   ],
   "failed": [],
-  "total": 10
+  "total": 9
 }

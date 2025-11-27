@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Advanced Tattoo and Piercing Shops. I am Elli, Advanced Tattoo and Piercing Shops AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. Uh, I've been thinking about getting my first tattoo and, well, I'm kinda nervous about the whole process. Do you guys offer consultations to talk about design ideas and, uh, maybe show me around before I commit?
+
+AI Receptionist: Absolutely, Daniel! We offer free consultations where you can discuss design ideas with one of our artists, and they'll guide you through the process. It's a great way to get comfortable and make sure everything's just right before you decide to go ahead with it.
+
+Customer: That sounds perfect! And, uh, could I also see the studio and everything? Just to, you know, get a feel for the place?
+
+AI Receptionist: Of course! During the consultation, you'll be able to check out our studio. We want you to feel completely at ease. Would you like me to help set up an appointment for your consultation?
+
+Customer: Yeah, that'd be great. 
+
+AI Receptionist: Alright, could I get your first name, phone number, and email to book the appointment?
+
+Customer: Sure, it's Daniel, and my phone number is 555-0123. My email is daniel.garcia@email.com.
+
+AI Receptionist: Thank you for the information, Daniel. Your appointment is booked, and I’ve also messaged and emailed you the details. We look forward to seeing you at the consultation!
+
+Customer: Awesome, thanks so much. Looking forward to it!
+
+AI Receptionist: You’re welcome! Have a great day, Daniel. Bye!
+
+Customer: Bye!

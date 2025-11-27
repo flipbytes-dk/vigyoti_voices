@@ -1,0 +1,27 @@
+AI Receptionist: Hi, this is Summit Roofing Contractors. I am Charlotte, Summit Roofing Contractors AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Uh, I'm having some issues with my roof... I noticed a few shingles have come loose after the last storm, and I'm, uh, worried it might lead to leaks. Can you tell me if you guys can help with this, and maybe give me an idea of what the process would be like?
+
+AI Receptionist: Of course, Ryan. We can definitely help with that. Loose shingles can indeed lead to leaks if not addressed, so it's good you're looking into it. What we usually do is start with an inspection to assess the damage and see what repairs are needed. From there, we can, you know, either repair the loose shingles or suggest a replacement if it’s more extensive. Does that sound alright?
+
+Customer: Yeah, that sounds good. Um, how soon could someone come out and take a look?
+
+AI Receptionist: Let’s see... We can schedule an inspection for you as soon as tomorrow or the day after. Does that work for you?
+
+Customer: Yeah, tomorrow works. Uh, what time?
+
+AI Receptionist: Great! We have a slot available at 10 AM tomorrow. Would that be convenient for you?
+
+Customer: 10 AM is perfect. What information do you need from me?
+
+AI Receptionist: I'll just need your first name, phone number, and email to confirm the appointment.
+
+Customer: Sure, it’s Ryan Miller. My phone number is 555-0123, and my email is ryan.miller@email.com.
+
+AI Receptionist: Thank you for the information, Ryan. Your appointment is booked, and I've also messaged and emailed you the details. If anything comes up, feel free to reach out. 
+
+Customer: Great, thanks a lot, Charlotte.
+
+AI Receptionist: You're welcome! Have a great day, Ryan. Talk to you soon. 
+
+Customer: You too, bye!

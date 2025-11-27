@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Advanced Resturant Services. I am Bella, Advanced Resturant Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I run a small bistro downtown and I've been having some issues with, like, streamlining our reservation system. It's been kinda chaotic during peak hours. Do you guys provide consultations for that sort of thing?
+
+AI Receptionist: Absolutely, John. We specialize in helping restaurants optimize their operations, including reservation systems. We can definitely set up a consultation to discuss your needs in detail and offer solutions that could, you know, really improve your workflow.
+
+Customer: Oh, that's great to hear. Do you have any availability this week for a consultation?
+
+AI Receptionist: Let me check... We do have some openings later this week. Would, um, Friday afternoon work for you?
+
+Customer: Yeah, Friday should be good. 
+
+AI Receptionist: Perfect. To get everything set up, can I have your first name, phone number, and email?
+
+Customer: Sure, it's John, and my phone number is 555-0123. My email is john.williams@example.com.
+
+AI Receptionist: Thank you, John. Your appointment is booked for Friday afternoon, and I have also messaged and emailed you the details. 
+
+Customer: Awesome, thanks a lot!
+
+AI Receptionist: You’re welcome! We look forward to helping your bistro thrive. Have a great day!
+
+Customer: You too, Bella. Bye.
+
+AI Receptionist: Goodbye!

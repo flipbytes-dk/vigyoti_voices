@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Elite Nutritionists and Dietitian Services. I am Bella, Elite Nutritionists and Dietitian Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. Um, I’ve been trying to eat healthier lately, but it's been kind of... overwhelming with all the different diets out there. I was wondering if your services can help me figure out a plan that's, you know, personalized for my needs?
+
+AI Receptionist: Absolutely, Michael! At Elite Nutritionists and Dietitian Services, our dietitians specialize in creating personalized nutrition plans that fit your lifestyle and goals. They can definitely help clear up the confusion and set you on a path that's tailored just for you.
+
+Customer: Oh, that's great to hear. Do you offer consultations to get started, or how does it work?
+
+AI Receptionist: Yes, we do offer initial consultations where you'll meet with one of our nutritionists to assess your needs and goals. From there, they can create a custom plan for you. Would you like to book an appointment for a consultation?
+
+Customer: Yeah, that sounds perfect. Could we set one up?
+
+AI Receptionist: Of course! Could I get your first name, phone number, and email address to book the appointment?
+
+Customer: Sure, it's Michael. My phone number is 555-0123, and my email is michael.chen@email.com.
+
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I have also messaged and emailed you the details. If you have any more questions or need to reschedule, feel free to reach out.
+
+Customer: Thanks so much, Bella. I'm looking forward to it.
+
+AI Receptionist: You're welcome, Michael. We look forward to helping you achieve your health goals. Have a great day!
+
+Customer: You too! Bye.
+
+AI Receptionist: Goodbye!

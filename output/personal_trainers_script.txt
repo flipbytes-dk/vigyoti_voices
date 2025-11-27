@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Peak Performance Training. I am Rachel, Peak Performance Training AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I've been thinking about starting some personal training sessions. I've, uh, never done anything like this before, so I'm a bit nervous. Do you guys offer, like, beginner-friendly programs?
+
+AI Receptionist: Absolutely, John! We have a range of programs that are perfect for beginners, and our trainers are really great at making sure you feel comfortable and supported as you start out. We can pair you with a trainer who will guide you through everything step by step. Does that sound good?
+
+Customer: Yeah, that sounds pretty good. Um, and do you also, like, help with nutrition planning? I've been trying to eat better but, honestly, it's kind of overwhelming.
+
+AI Receptionist: Yes, we do offer nutrition planning as part of our services! Our trainers can work with you to create a balanced plan that fits your lifestyle and goals. Would you like to set up an initial consultation to discuss both training and nutrition options?
+
+Customer: Yeah, that would be great. How do I, uh, go about booking something?
+
+AI Receptionist: I can help you with that right now. Could I get your first name, phone number, and email address, please?
+
+Customer: Sure, it's John. My phone number is 555-0123, and you can reach me at john.williams@email.com.
+
+AI Receptionist: Thank you for the information, John. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions before your appointment, feel free to reach out.
+
+Customer: Thanks, Rachel. I appreciate it. Looking forward to it.
+
+AI Receptionist: You're welcome, John. We're looking forward to helping you reach your goals. Have a great day!
+
+Customer: You too, bye!

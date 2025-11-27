@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Elite Taxi Services. I am Rachel, Elite Taxi Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. I was wondering if you guys offer any, like, specialized taxi services for airport pickups? And... uh, what’s the typical wait time for a ride?
+
+AI Receptionist: Hi Daniel, great to hear from you! Yes, we do offer specialized services for airport pickups. Our drivers are experienced with airport routes and can meet you at your terminal if needed. As for the wait time, it usually depends on your location, but, um, we aim to have a taxi with you within 15 to 20 minutes. Does that sound good?
+
+Customer: Oh, that sounds perfect. Um, could I book a ride now for Friday afternoon? I’ll be arriving at the airport around 3 PM.
+
+AI Receptionist: Absolutely, we can set that up for you. Could you please provide your first name, phone number, and email address?
+
+Customer: Sure, the name is Daniel... uh, Garcia. My phone number is 555-0123, and my email is daniel.garcia@example.com.
+
+AI Receptionist: Thank you, Daniel. Your appointment is booked, and I have also messaged and emailed you the details of your ride. If you need any further assistance, feel free to call us back.
+
+Customer: Awesome, thanks a lot, Rachel!
+
+AI Receptionist: You're welcome, Daniel! Have a great day and a safe trip.

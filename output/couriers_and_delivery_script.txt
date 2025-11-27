@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Expert Couriers and Delivery Services. I am Rachel, Expert Couriers and Delivery Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Daniel Garcia. I, uh, wanted to ask about arranging a delivery. I have a package that needs to be sent out... like, pretty urgently. Can you tell me how quickly you guys can handle that?
+
+AI Receptionist: Absolutely, Daniel. We offer same-day delivery services for urgent packages, depending on the destination. Can you tell me more about where the package needs to be delivered?
+
+Customer: Sure, it's going from downtown to the north side of the city. I need it to get there by this afternoon.
+
+AI Receptionist: Perfect, we can definitely arrange for a same-day delivery within the city limits. We’ll make sure your package arrives by this afternoon. Would you like to set up an appointment for a courier to pick it up?
+
+Customer: Yeah, that would be great. What do you need from me to get that started?
+
+AI Receptionist: I'll just need your first name, your phone number, and an email address to send you the confirmation details.
+
+Customer: Okay, my first name is Daniel, phone number is 555-0123, and my email is daniel.garcia@email.com.
+
+AI Receptionist: Thank you for the information, Daniel. Your appointment is booked, and I have also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thanks a lot, Rachel. You've been really helpful.
+
+AI Receptionist: You're welcome! Have a great day, Daniel. Goodbye!
+
+Customer: Bye!

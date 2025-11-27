@@ -1,19 +1,25 @@
-AI Receptionist: Hi, this is Sterling Legal Associates. I am Bella, Sterling Legal Associates AI receptionist. How can I help you today?
+AI Receptionist: Hi, this is Sterling Legal Associates. I am Matilda, Sterling Legal Associates AI receptionist. How can I help you today?
 
-Customer: Hi, I'm Ryan Miller. Uh, I'm looking into getting some help with estate planning. I've recently had, you know, some changes in my family situation, and I'm wondering if you guys can help set up a trust. Is that something you handle?
+Customer: Hi, I'm Michael Chen. Um, I'm looking to set up an estate plan... and I was wondering, uh, how long does the process usually take? 
 
-AI Receptionist: Absolutely, Ryan. Estate planning, including setting up trusts, is one of our key services here at Sterling Legal Associates. Our attorneys can definitely assist you with that. Would you like to schedule an appointment to discuss your options in detail?
+AI Receptionist: Great question, Michael! Estate planning can vary, but typically, it takes a few weeks to finalize everything, depending on the complexity of your needs. We help with wills, trusts, and, you know, all those important details to make sure everything's covered.
 
-Customer: Yeah, that sounds great. What information do you need from me?
+Customer: Oh, okay, that sounds good. So, um, can I schedule a consultation to get started?
 
-AI Receptionist: Perfect. Could I please have your first name, your phone number, and your email address?
+AI Receptionist: Absolutely! Let’s get you set up with an appointment. Could you please confirm your first name and your phone number?
 
-Customer: Sure, it's Ryan, and my phone number is 555-0123. My email’s ryan.miller@example.com.
+Customer: Sure, it’s Michael, and my phone number is 555-0123.
 
-AI Receptionist: Thank you, Ryan. Your appointment is booked, and I've also sent you a message and an email with the details. If you have any questions before your appointment, feel free to reach out.
+AI Receptionist: Great, thank you, Michael. And could I have your email address as well?
 
-Customer: Great, thanks a lot, Bella. I appreciate it.
+Customer: Yeah, it's michael.chen@email.com.
 
-AI Receptionist: You're welcome, Ryan. We're looking forward to helping you with your estate planning. Have a wonderful day!
+AI Receptionist: Perfect, thanks for that. Your appointment is booked. You should see a message and an email from us shortly with all the details.
+
+Customer: Awesome, thanks so much. I appreciate it!
+
+AI Receptionist: Of course! Thank you for calling Sterling Legal Associates. We're looking forward to helping you with your estate planning. Have a great day!
 
 Customer: You too, bye!
+
+AI Receptionist: Goodbye!

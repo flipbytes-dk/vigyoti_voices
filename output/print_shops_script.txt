@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Elite Print Shops. I am Freya, Elite Print Shops AI receptionist. How can I help you today?
+
+Customer: Hi, uh... I'm John Williams. I was, um, looking to get some custom invitations printed for an event, and I'm kinda wondering what the process is like. Like, do I need to bring my own designs, or can you guys help with that?
+
+AI Receptionist: Great question, John! We actually offer a full range of services when it comes to custom invitations. If you have a design, we can definitely work with that, but if you need help creating one, our team can assist you with the design process too. We have design consultations available to get you exactly what you're looking for.
+
+Customer: Oh, that sounds perfect. Um, do I need to make an appointment for a consultation, or can I just drop by?
+
+AI Receptionist: We recommend making an appointment to ensure that one of our design specialists is available to help you. Would you like me to set up an appointment for you?
+
+Customer: Yeah, that would be great. 
+
+AI Receptionist: Alright, could I get your first name, phone number, and email address to book the appointment for you?
+
+Customer: Sure thing. Uh, my first name is John, and my phone number is 555-0123. My email is john.williams@email.com.
+
+AI Receptionist: Perfect, John. Thank you for the information. Your appointment is booked, and I've also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: No, that pretty much covers it. Thanks, Freya!
+
+AI Receptionist: You're welcome, John! We look forward to helping you with your invitations. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Bye!

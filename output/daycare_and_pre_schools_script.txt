@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is City Daycare and Pre Schools Academy. I am Rachel, City Daycare and Pre Schools Academy AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. I'm looking into options for my three-year-old, and I heard about your specialized programs. Can you tell me if you have, like, any availability for a consultation next week?
+
+AI Receptionist: Sure, James! We offer a variety of specialized programs tailored for young children. We can definitely set up a consultation to go over the details. Let me check our calendar... just a moment. Okay, we have openings next Tuesday and Thursday. Which day works better for you?
+
+Customer: Uh, Thursday would be great. Do you have anything in the morning?
+
+AI Receptionist: Yes, we have a slot available at 10 a.m. on Thursday. How does that sound?
+
+Customer: Perfect! Let's go with that.
+
+AI Receptionist: Great! I'll just need to grab a few details from you to book the appointment. Could you please confirm your first name, phone number, and email?
+
+Customer: Sure, it's James. My phone number is 555-0123, and my email is james.martinez@email.com.
+
+AI Receptionist: Thank you for the information, James. Your appointment is booked, and I've also messaged and emailed you the details. If you have any other questions, just let us know!
+
+Customer: Awesome, thanks so much, Rachel!
+
+AI Receptionist: You're welcome! We look forward to meeting you and your little one. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Bye!

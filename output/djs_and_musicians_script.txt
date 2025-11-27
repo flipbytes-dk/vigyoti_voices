@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Advanced DJs and Musician Services. I am Freya, Advanced DJs and Musician Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. Uh, I was thinking about hiring a DJ for my sister's wedding coming up, and I wanted to know... do you guys provide, like, consultations for event planning? I'm not really sure where to start.
+
+AI Receptionist: Absolutely, James! We do offer consultations to help you plan the music for your event. Our DJs are experienced in coordinating with you to create the perfect atmosphere, whether it's for a wedding, party, or any special occasion. 
+
+Customer: Oh, that sounds great! And, um, can you also provide musicians if we decide we want a live performance at some point during the event?
+
+AI Receptionist: Yes, we can definitely arrange for musicians as well. We have a range of talented performers who can add a live touch to your event. Would you like to set up a consultation to discuss this in more detail?
+
+Customer: Yeah, that would be awesome. What do you need from me to, you know, book that?
+
+AI Receptionist: Okay, great. Let’s get you set up. I’ll need your first name, phone number, and email address.
+
+Customer: Sure, it's James and my phone number is 555-0123. My email is james.martinez@email.com.
+
+AI Receptionist: Thank you for the information, James. Your appointment is booked, and I have also messaged and emailed you the details. If you have any more questions, feel free to reach out.
+
+Customer: Perfect, thanks a lot, Freya. Looking forward to it!
+
+AI Receptionist: You're welcome, James! We're excited to help make your sister's wedding memorable. Have a great day!
+
+Customer: You too! Bye!

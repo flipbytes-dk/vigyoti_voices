@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Elegant Interiors Design. I am Gigi, Elegant Interiors Design AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Matthew Anderson. Um, I'm looking to, you know, freshen up my living room and maybe get some advice on colors. It's kind of, uh, outdated right now. Do you guys do color consultations?
+
+AI Receptionist: Absolutely, Matthew! We offer color consultations as part of our services to help you find the perfect palette for your space. Our designers can guide you through selecting colors that match your style and existing decor. Would you like to set up an appointment for that?
+
+Customer: Yeah, that sounds great. Um, what's the process like? Do you come over, or do I bring pictures to you guys?
+
+AI Receptionist: Great question! Typically, one of our designers will visit your home to get a better sense of the space and lighting, which really helps in suggesting the best colors. But if it's more convenient, you can also send us pictures beforehand. 
+
+Customer: Alright, sounds good. Can we go ahead and schedule that?
+
+AI Receptionist: Sure thing! Could I get your first name, phone number, and email to book the appointment and send over the details?
+
+Customer: Of course. It's Matthew, my phone number is 555-0123, and my email is matthew.anderson@email.com.
+
+AI Receptionist: Thank you for the information, Matthew. Your appointment is booked and I have also messaged and emailed you the details. If you have any more questions, feel free to reach out!
+
+Customer: Great, thanks a lot, Gigi. Looking forward to it.
+
+AI Receptionist: You're welcome! Have a wonderful day, Matthew. Goodbye!

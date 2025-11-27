@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Advanced Property Management Services. I am Gigi, Advanced Property Management Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Robert Johnson. Uh, I've been having some trouble with, like, the tenant lease renewals in one of my properties. I'm not sure if I'm handling it correctly. Do you guys offer any consultation services for stuff like this?
+
+AI Receptionist: Absolutely, Robert. We offer specialized consultation services to help with tenant lease renewals and, you know, other management tasks. Our team can guide you through the process and ensure everything's handled smoothly. Would you be interested in scheduling a consultation with one of our experts?
+
+Customer: Yeah, that sounds great. I'd definitely like to set up a time to discuss this further.
+
+AI Receptionist: Perfect! I can help you with that. Could I get your first name again, just to make sure I have it correctly?
+
+Customer: Sure, it's Robert.
+
+AI Receptionist: Thank you, Robert. And could you please provide your phone number and email address so we can send you the appointment details?
+
+Customer: Of course, my number is 555-0123, and my email is robert.johnson@example.com.
+
+AI Receptionist: Great, I’ve got that noted down. Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details. Is there anything else I can help you with?
+
+Customer: No, that's all I needed. Thanks so much, Gigi.
+
+AI Receptionist: You're welcome, Robert! Have a great day, and we'll talk soon.
+
+Customer: Thanks, you too. Bye.
+
+AI Receptionist: Goodbye!

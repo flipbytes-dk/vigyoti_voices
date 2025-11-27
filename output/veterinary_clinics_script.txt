@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Caring Paws Veterinary. I am Lily, Caring Paws Veterinary AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. Uh, I have a question about my dog, Max. He's due for his vaccinations soon, and I was wondering... like, do you guys offer any wellness exams along with the vaccinations? 
+
+AI Receptionist: Oh, absolutely, Michael. We actually recommend doing a wellness exam along with the vaccinations to ensure your pet is in good health. It gives the vet a chance to spot any potential issues early on. 
+
+Customer: That sounds great. Um, can I book an appointment for this week, maybe?
+
+AI Receptionist: Sure, I can help you with that. Could I get your first name, phone number, and email address, please?
+
+Customer: Yeah, sure. My first name is Michael, and my phone number is 555-0123. The email is michael.chen@email.com.
+
+AI Receptionist: Thank you, Michael. I’ve got you down for an appointment, and I’ll make sure you receive the details via text and email shortly.
+
+Customer: Perfect, thanks so much for your help!
+
+AI Receptionist: My pleasure, Michael. Thank you for the information. Your appointment is booked, and I've also messaged and emailed you the details. Have a great day!
+
+Customer: Thanks, you too! Bye.
+
+AI Receptionist: Goodbye!

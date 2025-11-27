@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Modern Trucking Companie Services. I am Gigi, Modern Trucking Companie Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Christopher Lee. Uh, I've been having some issues with, like, scheduling specialized trucking services for my business. It's been really tough to find a reliable company that can handle oversized loads. Do you guys provide services for that, and how soon could I get a consultation?
+
+AI Receptionist: Absolutely, Christopher. We do offer specialized trucking services, including oversized loads. We can definitely set you up with a consultation to discuss your specific needs. Would you like to book an appointment for that?
+
+Customer: Yeah, that would be great. What information do you need from me?
+
+AI Receptionist: I'll just need a little bit of information to get started. Could you give me your first name, which I believe is Christopher, your phone number, and your email address?
+
+Customer: Sure, my full name is Christopher Lee. The phone number is 555-0123, and my email is chris.lee@example.com.
+
+AI Receptionist: Perfect, Christopher. Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Awesome, thanks so much for your help, Gigi.
+
+AI Receptionist: You're welcome! Have a great day, Christopher.
+
+Customer: You too, bye!

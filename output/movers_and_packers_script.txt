@@ -1,0 +1,23 @@
+AI Receptionist: Hi, this is Advanced Movers and Packer Services. I am Rachel, Advanced Movers and Packer Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. I'm planning to move to a new apartment next month, and I was wondering if you guys handle packing delicate items like glassware and, uh, you know, artwork?
+
+AI Receptionist: Absolutely, James! We specialize in handling delicate items, including glassware and artwork. Our team uses specialized packing materials to ensure everything is safe during the move. Is there anything else you'd like to know about our services?
+
+Customer: That's great to hear. Um, do you offer any initial consultations so I can get a better idea of the process and the cost?
+
+AI Receptionist: Yes, we do offer free consultations. We can discuss your needs and provide an estimate based on the items you'd like us to move. Would you like to schedule an appointment for that?
+
+Customer: Yeah, that would be perfect.
+
+AI Receptionist: Wonderful! Could I get your first name, phone number, and email to book the appointment?
+
+Customer: Sure, it's James. My phone number is 555-0123, and my email is james.martinez@email.com.
+
+AI Receptionist: Thank you, James. I've booked your consultation, and you'll receive a message and an email with all the details shortly. 
+
+Customer: Awesome, thanks a lot, Rachel!
+
+AI Receptionist: You're welcome, James. Thank you for reaching out to Advanced Movers and Packer Services. Have a great day!
+
+Customer: You too, bye!

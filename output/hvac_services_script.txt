@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Climate Control Experts. I am Bella, Climate Control Experts AI receptionist. How can I help you today?
+
+Customer: Oh, hi there! I'm Andrew Davis. Um, I've been having some trouble with my air conditioner... it's, uh, making this weird rattling noise. Do you guys do repairs, like, today?
+
+AI Receptionist: Hi, Andrew! Yes, we definitely handle AC repairs, and we can often arrange same-day service, depending on availability. Could you tell me a bit more about the noise? Is it constant, or does it come and go?
+
+Customer: It's kinda on and off, you know? Mostly when it starts up. I just want to make sure it doesn't, like, get worse or anything.
+
+AI Receptionist: Got it. That definitely sounds like something our technicians can help with. We can send someone out to diagnose and fix the issue for you. Would you like to book an appointment now?
+
+Customer: Yeah, that'd be great.
+
+AI Receptionist: Perfect. Can I have your first name, phone number, and email to get everything set up?
+
+Customer: Sure! First name's Andrew, phone number is 555-0123, and my email is andrew.davis@email.com.
+
+AI Receptionist: Thank you, Andrew. Your appointment is booked, and I have also messaged and emailed you the details. 
+
+Customer: Awesome, thanks so much!
+
+AI Receptionist: You're welcome! If you have any other questions, feel free to give us a call. Have a great day!
+
+Customer: Will do, thanks, Bella!
+
+AI Receptionist: Bye!

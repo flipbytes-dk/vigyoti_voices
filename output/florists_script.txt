@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Bloom & Petal Florist. I am Charlotte, Bloom & Petal Florist AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. Um, I was hoping to get some flowers delivered for my sister's birthday tomorrow. I’ve never ordered from you guys before... do you have any recommendations for, like, a nice birthday bouquet?
+
+AI Receptionist: Of course, Michael! We have a lovely selection of birthday arrangements. Our most popular option is the "Birthday Bliss" bouquet, which includes a vibrant mix of seasonal flowers. It's really bright and cheerful—perfect for a birthday. Would you like some help placing an order for delivery?
+
+Customer: Yeah, that sounds great. Can you arrange for it to be delivered tomorrow? Also, do you, uh, send a confirmation or something?
+
+AI Receptionist: Yes, we can definitely arrange for delivery tomorrow. And yes, you'll receive a confirmation via email and text once the order is placed. Let me go ahead and get your details. Could I have your first name, phone number, and email, please?
+
+Customer: Sure, it's Michael. My phone number is 555-0123, and my email is michael.chen@email.com. 
+
+AI Receptionist: Perfect, thank you, Michael. Your appointment is booked, and I have also messaged and emailed you the details. If there's anything else you need, feel free to reach out. Have a great day!
+
+Customer: Thanks a lot, Charlotte! Appreciate it.
+
+AI Receptionist: You're welcome! Have a wonderful day, Michael. Goodbye!

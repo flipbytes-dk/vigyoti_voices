@@ -1,0 +1,19 @@
+AI Receptionist: Hi, this is Wanderlust Travel Services. I am Lily, Wanderlust Travel Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm John Williams. Uh, I'm planning a trip and I was looking into some vacation packages. I'm kind of wondering, do you guys offer anything for, like, a tropical destination? And also, how customizable are these packages?
+
+AI Receptionist: Great questions, John! We definitely offer a variety of vacation packages to tropical destinations. We have options for places like the Caribbean, Hawaii, and even Southeast Asia. As for customization, we can tweak things like the flights, accommodations, and activities based on your preferences. Does that sound good?
+
+Customer: Yeah, that sounds perfect! I'm really interested in maybe going to Hawaii. Could we set up a time for me to speak with someone about the details?
+
+AI Receptionist: Absolutely, I can help with that. Let’s go ahead and book an appointment for you to chat with one of our travel consultants. Could I get your first name, phone number, and email, please?
+
+Customer: Sure! It's John, and my phone number is 555-0123. My email is john.williams@email.com.
+
+AI Receptionist: Thank you for the information, John. Your appointment is booked, and I have also messaged and emailed you the details. Is there anything else I can assist you with today?
+
+Customer: Nope, that's all for now. Thanks for your help, Lily!
+
+AI Receptionist: You're welcome, John! We look forward to helping you plan your perfect getaway. Have a wonderful day!
+
+Customer: Thanks, you too! Bye!

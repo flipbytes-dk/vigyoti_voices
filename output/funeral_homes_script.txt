@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Expert Funeral Home Services. I am Charlotte, Expert Funeral Home Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. I've been, uh, looking into options for a memorial service for my father, and I was wondering, do you offer personalized planning for that kind of service?
+
+AI Receptionist: Oh, I'm so sorry to hear about your loss, Ryan. Yes, we do offer personalized planning for memorial services. We can help you with everything from selecting the venue and floral arrangements to organizing a personalized ceremony that honors your father's life.
+
+Customer: That sounds perfect. How do we go about starting the planning process?
+
+AI Receptionist: Well, the best first step is to set up a consultation with one of our planning specialists. They can guide you through all the options and help tailor the service to your family's needs. Would you like to schedule an appointment for that?
+
+Customer: Yeah, that would be great.
+
+AI Receptionist: Alright, could I get your first name, phone number, and email to set up the appointment?
+
+Customer: Sure, it's Ryan. My phone number is 555-0123, and my email is ryanmiller@email.com.
+
+AI Receptionist: Thank you, Ryan. Your appointment is booked, and I've also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Thanks a lot, Charlotte. I appreciate it.
+
+AI Receptionist: You're welcome, Ryan. Take care, and we're here to help whenever you need us.

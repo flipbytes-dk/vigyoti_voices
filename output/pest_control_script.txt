@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Guardian Pest Solutions. I am Rachel, Guardian Pest Solutions AI receptionist. How can I help you today?
+
+Customer: Hi, I'm James Martinez. Uh, I've been having a bit of an issue with, like, ants in my kitchen. It's getting kind of out of hand... Is that something you guys can help with?
+
+AI Receptionist: Oh, definitely, James. Ant infestations are one of the common problems we deal with. We can send a technician over to inspect the situation and recommend the best treatment plan for you. Would you like to set up an appointment for that?
+
+Customer: Yeah, that'd be great. How soon can someone come out?
+
+AI Receptionist: We usually have availability within a day or two. How does tomorrow afternoon sound? 
+
+Customer: Tomorrow works for me. Could we do it around 3 PM?
+
+AI Receptionist: Sure thing, James. I'll pencil you in for tomorrow at 3 PM. Could I get your phone number and email to confirm the details?
+
+Customer: Yeah, no problem. My phone number is 555-0123, and my email is james.martinez@email.com.
+
+AI Receptionist: Thank you for the information. Your appointment is booked, and I have also messaged and emailed you the details. If you have any more questions or need to reschedule, just let us know.
+
+Customer: Awesome, thanks so much for your help!
+
+AI Receptionist: You're welcome, James. Have a great day, and we'll see you tomorrow!
+
+Customer: Thanks, you too. Bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Total Notary Public Services. I am Dorothy, Total Notary Public Services AI receptionist. How can I help you today?
+
+Customer: Hi there, I'm Christopher Lee. Um, I was wondering about getting a couple of documents notarized. It's, uh, for a real estate transaction. Could you tell me if I need to bring anything specific for that?
+
+AI Receptionist: Sure, Christopher! For real estate transactions, you'll usually need to bring a valid photo ID, and, of course, the documents that need to be notarized. We, uh, recommend bringing any additional documents that might be related, just in case.
+
+Customer: Got it, thanks. And, um, do you guys handle this type of thing pretty often?
+
+AI Receptionist: Absolutely! We handle real estate documents regularly, so you're in good hands. Would you like to book an appointment to come in?
+
+Customer: Yeah, that would be great. 
+
+AI Receptionist: Perfect! Can I get your first name, phone number, and email to set up the appointment?
+
+Customer: It's Christopher, and the phone number is 555-0123. My email is clee@email.com.
+
+AI Receptionist: Thank you, Christopher. Your appointment is booked, and I've also messaged and emailed you the details. If you have any more questions before the appointment, feel free to reach out!
+
+Customer: Awesome, thanks, Dorothy. I appreciate it.
+
+AI Receptionist: You're welcome! Have a great day, and we'll see you soon!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,25 @@
+AI Receptionist: Hi, this is Expert Construction Companie Services. I am Matilda, Expert Construction Companie Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Christopher Lee. Um, I'm looking to do some renovations on my home, particularly the kitchen, and I was wondering if you guys handle that? And, uh, is it possible to get a consultation to discuss the options?
+
+AI Receptionist: Absolutely, Christopher! We do specialize in renovations, including kitchens, and we can definitely set up a consultation to go over your ideas and needs. Our team can offer tailored solutions to fit your vision. 
+
+Customer: Oh, great! That's exactly what I was hoping to hear. 
+
+AI Receptionist: Perfect! Would you like me to go ahead and book that consultation for you?
+
+Customer: Yes, please. That would be awesome.
+
+AI Receptionist: All right, could I have your first name, phone number, and email address, please?
+
+Customer: Sure, it's Christopher. My phone number is 555-0123, and my email is clee@email.com.
+
+AI Receptionist: Thank you, Christopher. Your appointment is booked, and I've sent the details to your email and phone. Is there anything else you need help with?
+
+Customer: No, I think that's all for now. Thanks, Matilda!
+
+AI Receptionist: You're welcome, Christopher! Thank you for choosing Expert Construction Companie Services. We look forward to helping you with your renovation. Have a great day!
+
+Customer: You too, bye!
+
+AI Receptionist: Goodbye!

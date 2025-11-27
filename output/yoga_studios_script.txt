@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Zen Flow Yoga. I'm Elli, Zen Flow Yoga AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. So, uh, I've been dealing with a lot of stress lately and I heard that yoga can really help with that. I was wondering, do you guys offer any beginner-friendly classes that focus on relaxation?
+
+AI Receptionist: Absolutely, Ryan! We have a variety of classes that might be perfect for you. Our beginner yoga classes are designed to help you ease into the practice and focus on relaxation and breathing techniques. We also offer meditation sessions that are great for stress relief. Would you like to book a session to try it out?
+
+Customer: Yeah, that sounds great. I'd love to book a class... um, maybe this weekend?
+
+AI Receptionist: Sure thing! Let's get you set up. Could I have your first name, phone number, and email, please?
+
+Customer: Of course! It's Ryan, and my phone is 555-0123. My email is ryan.miller@example.com.
+
+AI Receptionist: Thanks, Ryan. I've got you down for a beginner class this weekend. I'll send you all the details via text and email. 
+
+Customer: Perfect, thank you so much, Elli!
+
+AI Receptionist: You're welcome! Thank you for the information. Your appointment is booked and I've also messaged and emailed you the details. Looking forward to seeing you at Zen Flow Yoga!
+
+Customer: Great, thanks again! Have a good day.
+
+AI Receptionist: You too, Ryan! Take care.

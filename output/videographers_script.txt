@@ -1,0 +1,21 @@
+AI Receptionist: Hi, this is Elite Videographer Services. I am Grace, Elite Videographer Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. I'm planning a corporate event next month, and I'm looking for a videographer to capture the whole thing. Do you guys offer services for events like that?
+
+AI Receptionist: Hi Michael, yes, we actually do specialize in corporate events. We can provide a videographer to capture everything from keynotes and breakout sessions to, um, you know, any interviews or candid moments you might want. Would you like to set up a consultation to discuss your event in more detail?
+
+Customer: That sounds great. Uh, could I book an appointment for a consultation?
+
+AI Receptionist: Of course! I can help you with that. Can I get your first name, phone number, and email, please?
+
+Customer: Sure, it's Michael... and the phone number is 555-0123. My email is mchen123@gmail.com.
+
+AI Receptionist: Thank you for the information, Michael. Your appointment is booked, and I've also messaged and emailed you the details. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thanks so much for your help!
+
+AI Receptionist: You're welcome! Have a great day, and we look forward to working with you on your event.
+
+Customer: Thank you, you too. Bye!
+
+AI Receptionist: Goodbye!

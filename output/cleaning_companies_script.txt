@@ -1,0 +1,29 @@
+AI Receptionist: Hi, this is Sparkle Clean Services. I am Charlotte, Sparkle Clean Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Ryan Miller. Um, I was looking into getting some cleaning done... I think a deep cleaning would probably be best. My place has kind of gotten, you know, a bit out of hand after some renovations. Does that include like, cleaning inside the cabinets and stuff?
+
+AI Receptionist: Hi Ryan, nice to hear from you! Absolutely, our deep cleaning service does include cleaning inside cabinets, as well as other detailed tasks like baseboards, light fixtures, and more. It's great for post-renovation messes!
+
+Customer: Oh, perfect. That sounds exactly like what I need. Uh, how soon could someone come out? I’m hoping to get this done as soon as possible.
+
+AI Receptionist: Let me check for you... We do have some slots available this week. Would you like me to go ahead and book a time for you?
+
+Customer: Yeah, that'd be great. Maybe something mid-week?
+
+AI Receptionist: Sure thing. Let’s see... how does Wednesday at 10 AM sound?
+
+Customer: That works for me.
+
+AI Receptionist: Wonderful. I'll just need to collect some details to finalize the booking. Could I have your email address, please?
+
+Customer: Sure, it's ryan.miller@gmail.com.
+
+AI Receptionist: Great, and I already have your phone number as 555-0123, right?
+
+Customer: Yep, that's right.
+
+AI Receptionist: Perfect, Ryan. Thank you for the information. Your appointment is booked and I have also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Awesome, thanks so much, Charlotte. Looking forward to it!
+
+AI Receptionist: You're welcome, Ryan. Have a great day!

@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Total Media and entertainment Services. I am Gigi, Total Media and entertainment Services AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Andrew Davis. I'm, uh, looking to set up a consultation... I have some ideas for a podcast and I want to see if your services can help me with, you know, like, getting started with production. Is that something you guys do?
+
+AI Receptionist: Absolutely, Andrew. We offer specialized consultations for media projects just like podcasts. Our team can definitely guide you through the production process, whether it's planning, recording, or even marketing. Would you like to book a consultation to discuss your ideas in more detail?
+
+Customer: Yeah, that sounds perfect. What, um, info do you need from me to set that up?
+
+AI Receptionist: Great! I'll just need your first name, phone number, and email to get started.
+
+Customer: Sure, my first name's Andrew, and my phone number is 555-0123. My email is andrewdavis@email.com.
+
+AI Receptionist: Thank you for the information, Andrew. Your appointment is booked, and I've also messaged and emailed you the details. If you have any other questions, feel free to reach out.
+
+Customer: Awesome, thanks so much, Gigi. Looking forward to it!
+
+AI Receptionist: You're welcome, Andrew. Have a great day!

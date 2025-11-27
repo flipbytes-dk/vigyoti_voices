@@ -1,0 +1,17 @@
+AI Receptionist: Hi, this is Elite Driving Schools Academy. I am Freya, Elite Driving Schools Academy AI receptionist. How can I help you today?
+
+Customer: Hi, I'm Michael Chen. Um, I was just wondering about your driving lessons. I've been wanting to get some extra practice... especially with parallel parking and highway driving. Do you guys offer specific lessons for that?
+
+AI Receptionist: Absolutely, Michael! We offer specialized lessons focusing on parallel parking and highway driving. Our instructors are really experienced with those, so you'll be in good hands. Is there a particular time you were thinking of starting?
+
+Customer: Oh, that's great! Uh, I was hoping to get something maybe next week, if there's availability?
+
+AI Receptionist: Sure thing! Let’s see... we can set you up with an appointment for a driving lesson next week. Could I get your first name, phone number, and email address to book that for you?
+
+Customer: Of course! It's Michael, and my phone number is 555-0123. My email is michael.chen@gmail.com.
+
+AI Receptionist: Thank you, Michael. Your appointment is booked, and I’ve also sent you a message and an email with all the details. 
+
+Customer: Awesome, thanks so much, Freya!
+
+AI Receptionist: You're welcome! If you have any other questions, just give us a call. Have a great day!
