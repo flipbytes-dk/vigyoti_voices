@@ -1,0 +1,21 @@
+AI Receptionist: Good morning! Thank you for calling Bed and Breakfast. This is Jenny speaking. How can I assist you today?
+
+Customer: Hi Jenny! Uh, this is Daniel Garcia. I was, um, hoping to book an appointment... for a stay or something. Do you have anything available?
+
+AI Receptionist: Hi Daniel! Nice to hear from you. Let me check our availability for you. How soon are you looking to book?
+
+Customer: Uh, maybe next week? Like, around Tuesday, if possible.
+
+AI Receptionist: Great, let me just see... Okay, we do have an opening on Tuesday at 2 PM. Our most popular package includes a cozy room with a breakfast spread and a complimentary consultation to enhance your stay experience. Does that work for you?
+
+Customer: Yeah, that sounds perfect! Tuesday at 2 PM it is.
+
+AI Receptionist: Wonderful! I'll go ahead and book that for you. Your confirmation number is VIG6375. Is there anything else I can help you with today?
+
+Customer: Nope, that's all I needed. Thanks so much, Jenny!
+
+AI Receptionist: You're welcome, Daniel. We're looking forward to your visit. Have a great day!
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Goodbye!

@@ -1,0 +1,29 @@
+AI Receptionist: Thank you for calling Sparkle Shine Car Wash! This is your virtual assistant. How can I help you today?
+
+Customer: Hi there! This is Michael Chen. Uh, I'm looking to, you know, book an appointment for a car wash.
+
+AI Receptionist: Great, Michael! How are you doing today?
+
+Customer: Oh, I'm good, thanks! Just trying to get my car looking, uh, nice and clean. 
+
+AI Receptionist: Perfect! We can definitely help with that. We offer several packages. Our most popular is the Deluxe Shine package. Would you be interested in that?
+
+Customer: Yeah, that sounds good. What does that include?
+
+AI Receptionist: The Deluxe Shine package includes a thorough exterior wash, wax, interior vacuum, and a tire shine. It's quite a comprehensive clean.
+
+Customer: Awesome, that sounds perfect. Can I book that for, um, Tuesday?
+
+AI Receptionist: Absolutely! Let me check our schedule... How does Tuesday at 2 PM sound?
+
+Customer: Yeah, 2 PM works for me.
+
+AI Receptionist: Great! I’ve got you all set for Tuesday at 2 PM. Your confirmation number is VIG6308. Is there anything else I can assist you with today?
+
+Customer: No, that's it. Thank you so much!
+
+AI Receptionist: You're welcome, Michael! We look forward to seeing you on Tuesday. Have a fantastic day!
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Goodbye!

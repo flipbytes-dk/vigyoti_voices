@@ -1,0 +1,21 @@
+AI Receptionist: Hello, and thank you for calling Boxing Clubs, where champions train! This is Ava speaking. How can I assist you today?
+
+Customer: Hey, um, this is Matthew Anderson. I was hoping to, uh, book an appointment. Do you guys have any openings next week?
+
+AI Receptionist: Hi, Matthew! Great to hear from you. Let me check our schedule real quick... How does Tuesday at 2 PM sound for you?
+
+Customer: Tuesday at 2 PM? Yeah, that actually works for me. What, uh, services do you offer with that appointment?
+
+AI Receptionist: Perfect! We offer a variety of services, but our most popular package is the "Champion's Session." It includes a personal consultation and a one-hour training session with one of our top coaches. Does that sound good to you?
+
+Customer: Yeah, that sounds awesome. I'll go with that one.
+
+AI Receptionist: Great choice, Matthew! Let me just book that for you... Alright, you're all set for Tuesday at 2 PM. Your confirmation number is VIG8872. Is there anything else I can help you with?
+
+Customer: Uh, no, I think that covers it. Thanks a lot!
+
+AI Receptionist: You're welcome, Matthew! We look forward to seeing you on Tuesday. Have a wonderful day!
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Goodbye!

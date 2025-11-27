@@ -1,0 +1,25 @@
+AI Receptionist: Thank you for calling Alternative Medicine. This is your AI receptionist. How can I assist you today?
+
+Customer: Hey! Uh, this is Daniel Garcia. I'm just calling to, um, see about setting up an appointment. 
+
+AI Receptionist: Of course, Daniel! How are you doing today?
+
+Customer: I'm doing alright, thanks. Just, you know, trying to get everything sorted with my schedule. So, I was wondering if I could book a consultation or something?
+
+AI Receptionist: Absolutely, I can help with that. We actually have a popular appointment package that includes a comprehensive consultation and follow-up session. Would you be interested in that?
+
+Customer: Uh, yeah, that sounds good. What does the availability look like?
+
+AI Receptionist: Let me check that for you... We have an opening on Tuesday at 2 PM. Does that work for you?
+
+Customer: Tuesday at 2 PM? Yeah, that should be fine. Let's do that.
+
+AI Receptionist: Perfect, I've got you booked for Tuesday at 2 PM. Your confirmation number is VIG4238. Anything else I can help you with?
+
+Customer: Nope, that's it. Thanks a lot for your help!
+
+AI Receptionist: You're welcome, Daniel! Have a great day and we'll see you on Tuesday.
+
+Customer: Great, thanks! Bye!
+
+AI Receptionist: Goodbye!

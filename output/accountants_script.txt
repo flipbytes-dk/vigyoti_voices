@@ -1,0 +1,25 @@
+AI Receptionist: Good afternoon, Precision Tax & Accounting, this is the AI receptionist speaking. How can I assist you today?
+
+Customer: Hi, uh, this is Andrew Davis. I was wondering about some help with, like, small business taxes. Do you guys handle that?
+
+AI Receptionist: Absolutely, Andrew! We specialize in small business taxes among other services. How are you doing today?
+
+Customer: I'm good, thanks. So, um, I just started my own little business and I'm kinda new to this whole tax thing. I really need some guidance.
+
+AI Receptionist: Of course, starting a new business is exciting but taxes can definitely be a bit overwhelming. I'd recommend setting up a business tax consultation with one of our experts. They can walk you through everything you need to know.
+
+Customer: Yeah, that sounds perfect. When could we, uh, do that?
+
+AI Receptionist: Let me check our schedule real quick... Okay, how does Tuesday at 2 PM sound for you?
+
+Customer: Tuesday at 2 PM works great.
+
+AI Receptionist: Great! I’ve got you down for a consultation on Tuesday at 2 PM. Your confirmation number is VIG9188. Is there anything else I can help you with today?
+
+Customer: Uh, no, I think that covers it. Thanks a lot!
+
+AI Receptionist: You're welcome, Andrew! We're looking forward to helping you with your business taxes. Have a wonderful day!
+
+Customer: Thanks, you too! Bye!
+
+AI Receptionist: Goodbye!

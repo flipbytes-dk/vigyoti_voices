@@ -1,0 +1,25 @@
+AI Receptionist: Thank you for calling Car Dealerships! This is the AI receptionist speaking. How can I assist you today?
+
+Customer: Hey, uh, hi there! This is Matthew Anderson. I was wondering if I could, uh, set up an appointment for a consultation?
+
+AI Receptionist: Of course, Matthew! How are you doing today?
+
+Customer: I'm doing pretty good, thanks! So, yeah, I'm looking to get a consultation. I think I’d need some help with, you know, figuring out my options for a new car.
+
+AI Receptionist: Great to hear you’re doing well! We’d be happy to help with that. We actually have a very popular appointment package that includes a full consultation with our specialist team. Would you be interested in that?
+
+Customer: Yeah, that sounds perfect, actually. What does, um, the schedule look like for that?
+
+AI Receptionist: Let’s see... We have an opening on Tuesday at 2 PM. Would that work for you?
+
+Customer: Tuesday at 2 PM... yeah, that sounds good. Let’s go with that.
+
+AI Receptionist: Perfect! I’ll book you in for Tuesday at 2 PM. Your confirmation number is VIG8579. Is there anything else I can help you with today?
+
+Customer: Uh, no, I think that’s it for now. Thanks so much for the help!
+
+AI Receptionist: You’re welcome, Matthew! We look forward to seeing you on Tuesday. Have a great day!
+
+Customer: Thanks! You too. Bye!
+
+AI Receptionist: Goodbye!

@@ -1,12 +1,10 @@
-output/
-*.mp3
-*.log
+# Environment variables
 .env
+
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+*.py[cod]
+*$py.class
 *.so
 *.egg
 *.egg-info/
@@ -15,5 +13,4 @@ build/
 venv/
 .venv/
 .DS_Store
-generation_report.json
-*_script.txt
+generation.log

@@ -1,0 +1,25 @@
+AI Receptionist: Hi there! Thanks for calling Appliance Repair. This is the AI receptionist speaking. How can I help you today?
+
+Customer: Hey, uh, this is David Thompson. I... um, I was hoping to get some information about your repair services. You know, I have a washing machine that's acting up.
+
+AI Receptionist: Sure, David! I'd be happy to help you with that. How are you doing today?
+
+Customer: Oh, I'm doing alright, just trying to get this sorted out. So, yeah, what can you tell me about your repair services? Like, do you have anything specific for, uh, washing machines?
+
+AI Receptionist: Absolutely! We offer a variety of repair services, and our most popular one is the comprehensive appliance repair package. It covers diagnostics and repairs for a wide range of issues, which would be perfect for your washing machine. Would you like to book an appointment for that?
+
+Customer: Yeah, that sounds like what I need. Um, when's the next available slot?
+
+AI Receptionist: Let's see... We have an opening on Tuesday at 2 PM. Would that work for you?
+
+Customer: Tuesday at 2... yeah, that should be fine. Let's go with that.
+
+AI Receptionist: Great! I've got you booked in for Tuesday at 2 PM. Your confirmation number is VIG2076. Make sure to have that handy when our technician arrives.
+
+Customer: Perfect, I've got it noted down. Thanks for all the help!
+
+AI Receptionist: You're very welcome, David! If you have any more questions before the appointment, just give us a call. Have a great day!
+
+Customer: Will do! Thanks again. Bye!
+
+AI Receptionist: Bye now!

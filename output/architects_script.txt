@@ -1,0 +1,29 @@
+AI Receptionist: Hello, and thank you for calling Architects. This is the AI assistant. How can I help you today?
+
+Customer: Oh, hi! This is Robert Johnson, um, I'm looking to book an appointment, uh, you know, for a consultation.
+
+AI Receptionist: Great, Robert! How are you doing today?
+
+Customer: I'm doing well, thanks. So, uh, I'm interested in setting up that appointment. 
+
+AI Receptionist: Wonderful! We offer a few consultation options, but our most popular package is a comprehensive design consultation. Would you be interested in that?
+
+Customer: Yeah, that sounds good. What's, uh, what's involved with that package?
+
+AI Receptionist: It includes a detailed discussion with one of our specialized architects, a site evaluation, and, um, a preliminary design draft. It's a really thorough process to get your project started on the right foot.
+
+Customer: Perfect, that sounds like exactly what I need. When's your next available appointment?
+
+AI Receptionist: Let me check... It looks like we have an opening on Tuesday at 2 PM. Would that work for you?
+
+Customer: Tuesday at 2 PM... Yeah, that works great for me.
+
+AI Receptionist: Excellent! I’ll book you in for Tuesday at 2 PM. Your confirmation number is VIG2645. Is there anything else I can assist you with?
+
+Customer: No, that's all, I think. Thanks for your help!
+
+AI Receptionist: You're welcome, Robert! We're looking forward to your consultation. Have a great day!
+
+Customer: Thanks! You too, bye!
+
+AI Receptionist: Goodbye!

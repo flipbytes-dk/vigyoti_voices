@@ -1,0 +1,25 @@
+AI Receptionist: Good afternoon, AutoCare Service Center, how can I help you today?
+
+Customer: Hey there, this is Robert Johnson. Uh, I was hoping to get some info about your brake inspection service?
+
+AI Receptionist: Hi, Robert! How are you today?
+
+Customer: I'm doing alright, thanks. Just, uh, trying to keep up with the car maintenance, you know? 
+
+AI Receptionist: Absolutely, I understand. So, you're interested in a brake inspection. We actually have a complete maintenance package that includes a brake check, along with an oil change and tire rotation. It’s a great way to make sure everything’s in top shape.
+
+Customer: Oh, that sounds pretty good, actually. Uh, how soon could I get in for that?
+
+AI Receptionist: Let's see... We can fit you in on Tuesday at 2 PM. Does that work for you?
+
+Customer: Yeah, Tuesday at 2 PM works perfectly. 
+
+AI Receptionist: Great! I've got you scheduled. Your confirmation number is VIG1510. Anything else I can help you with?
+
+Customer: Nope, that's it. Thanks so much for your help!
+
+AI Receptionist: You're welcome, Robert! We’ll see you on Tuesday at 2 PM. Have a great day!
+
+Customer: You too! Thanks again. Bye.
+
+AI Receptionist: Goodbye!
